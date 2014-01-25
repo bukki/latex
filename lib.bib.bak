@@ -46,7 +46,7 @@
 }
 
 @INPROCEEDINGS{andersen2013:trace,
-  author = {Andersen, Erik and Gulwani, Sumit and Popovic, Zoran},
+  author = {Andersen, Erik and Gulwani, Sumit and Popovi\'c, Zoran},
   title = {A Trace-based Framework for Analyzing and Synthesizing Educational
 	Progressions},
   booktitle = {ACM SIGCHI Conference on Human Factors in Computing Systems},
@@ -135,7 +135,7 @@
 }
 
 @INPROCEEDINGS{bauer2013:rrt-generation,
-  author = {Bauer, Aaron William and Cooper, Seth and Popovic, Zoran},
+  author = {Bauer, Aaron William and Cooper, Seth and Popovi\'c, Zoran},
   title = {Automated redesign of local playspace properties},
   booktitle = {8th International Conference on the Foundations of Digital Games},
   year = {2013},
@@ -144,7 +144,7 @@
 }
 
 @INPROCEEDINGS{bauer2012:rrt-analysis,
-  author = {Bauer, Aaron William and Popovic, Zoran},
+  author = {Bauer, Aaron William and Popovi\'c, Zoran},
   title = {RRT-Based Game Level Analysis, Visualization, and Visual Refinement},
   booktitle = {8th AAAI Conference on Artificial Intelligence and Interactive Digital
 	Entertainment},
@@ -1295,7 +1295,7 @@
 
 @INPROCEEDINGS{jaffe2012:balance,
   author = {Jaffe, Alexander and Miller, Alex and Andersen, Erik and Liu, Yun-En
-	and Karlin, Anna and Popovic, Zoran},
+	and Karlin, Anna and Popovi\'c, Zoran},
   title = {Evaluating Competitive Game Balance with Restricted Play},
   booktitle = {Proceedings of the Eighth Conference on Artificial Intelligence and
 	Interactive Digital Entertainment},
@@ -2968,7 +2968,7 @@
 }
 
 @INPROCEEDINGS{smith2012:refraction,
-  author = {Smith, Adam M and Andersen, Erik and Mateas, Michael and Popovi{\'c},
+  author = {Smith, Adam M and Andersen, Erik and Mateas, Michael and Popovi\'c,
 	Zoran},
   title = {A case study of expressively constrainable level design automation
 	tools for a puzzle game},
@@ -2980,7 +2980,7 @@
 }
 
 @INPROCEEDINGS{smith2013:quantify-play,
-  author = {Smith, Adam M and Butler, Eric and Popovic, Zoran},
+  author = {Smith, Adam M and Butler, Eric and Popovi\'c, Zoran},
   title = {Quantifying over Play: Constraining Undesirable Solutions in Puzzle
 	Design},
   booktitle = {8th International Conference on the Foundations of Digital Games},
