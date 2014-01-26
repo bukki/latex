@@ -652,8 +652,7 @@
 @INPROCEEDINGS{dormans2012:physics-gen,
   author = {Dormans, J.},
   title = {Generating Emergent Physics for Action-Adventure Games},
-  booktitle = {Proceedings of the 3rd Workshop on Procedural Content Generation
-	in Games},
+  booktitle = {3rd Workshop on Procedural Content Generation in Games},
   year = {2012},
   owner = {Alex},
   timestamp = {2014.01.22}
@@ -709,8 +708,7 @@
   author = {Joris Dormans},
   title = {Adventures in level design: generating missions and spaces for action
 	adventure games},
-  booktitle = {Proceedings of the FDG 2010 Workshop on Procedural Content Generation
-	in Games},
+  booktitle = {1st Workshop on Procedural Content Generation in Games},
   year = {2010},
   owner = {Alex},
   timestamp = {2013.03.07}
@@ -721,7 +719,6 @@
   title = {Machinations: Elemental feedback structures for game design},
   booktitle = {GAMEON-NA},
   year = {2009},
-  pages = {33--40},
   owner = {alexzook},
   timestamp = {2013.03.20}
 }
@@ -1185,10 +1182,9 @@
 @INPROCEEDINGS{hom2007:gamegen,
   author = {Hom, Vincent and Marks, Joe},
   title = {Automatic design of balanced board games},
-  booktitle = {Proceedings of the Third Artificial Intelligence and Interactive
-	Digital Entertainment Conference},
+  booktitle = {3rd AAAI Conference on Artificial Intelligence and Interactive Digital
+	Entertainment},
   year = {2007},
-  pages = {25--30},
   owner = {alexzook},
   timestamp = {2013.03.17}
 }
@@ -1743,7 +1739,6 @@
   booktitle = {8th International Conference on Advances in Computer Entertainment
 	Technology},
   year = {2011},
-  pages = {22},
   owner = {Alex},
   timestamp = {2013.05.11}
 }
@@ -1951,7 +1946,7 @@
   author = {McDermott, Drew and Ghallab, Malik and Howe, Adele and Knoblock,
 	Craig and Ram, Ashwin and Veloso, Manuela and Weld, Daniel and Wilkins,
 	David},
-  title = {PDDL - the planning domain definition language},
+  title = {{PDDL} - the planning domain definition language},
   institution = {Yale Center for Computational Vision and Control},
   year = {1998},
   owner = {Alex},
@@ -2091,8 +2086,6 @@
   title = {A requirements analysis for videogame design support tools},
   booktitle = {Proc. of the 4th Int'l Conf. on Foundations of Digital Games},
   year = {2009},
-  pages = {137--144},
-  organization = {ACM},
   owner = {alexzook},
   timestamp = {2013.03.17}
 }
@@ -2103,8 +2096,6 @@
   booktitle = {Proceedings of the 13th International Conference on Intelligent User
 	Interfaces},
   year = {2008},
-  pages = {90--98},
-  organization = {ACM},
   owner = {alexzook},
   timestamp = {2013.03.17}
 }
@@ -2112,10 +2103,9 @@
 @INPROCEEDINGS{nelson2008:recombn,
   author = {Nelson, Mark J and Mateas, Michael},
   title = {Recombinable game mechanics for automated design support},
-  booktitle = {Proceedings of the Fourth Artificial Intelligence and Interactive
-	Digital Entertainment Conference},
+  booktitle = {4th AAAI Conference on Artificial Intelligence and Interactive Digital
+	Entertainment},
   year = {2008},
-  pages = {84--89},
   owner = {alexzook},
   review = {Event calculus to represent mechanics},
   timestamp = {2013.03.17}
@@ -2778,8 +2768,6 @@
   title = {Automatic generation and analysis of physics-based puzzle games},
   booktitle = {IEEE Conference on Computational Intelligence in Games},
   year = {2013},
-  pages = {1--8},
-  organization = {IEEE},
   owner = {Alex},
   timestamp = {2013.10.25}
 }
@@ -2809,11 +2797,8 @@
 @INPROCEEDINGS{shaker2011:featureanalysis,
   author = {Shaker, Noor and Yannakakis, G.N. and Togelius, Julian},
   title = {Feature analysis for modeling game content quality},
-  booktitle = {IEEE Conference on Computational Intelligence and Games (CIG)},
+  booktitle = {IEEE Conference on Computational Intelligence and Games},
   year = {2011},
-  number = {4},
-  pages = {126--133},
-  publisher = {IEEE},
   owner = {Alex},
   timestamp = {2013.03.07},
   url = {http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=6031998}
@@ -3012,10 +2997,8 @@
 @INPROCEEDINGS{smith2010:ludocore,
   author = {Smith, Adam M and Nelson, Mark J and Mateas, Michael},
   title = {Ludocore: A logical game engine for modeling videogames},
-  booktitle = {IEEE Symposium on Computational Intelligence and Games},
+  booktitle = {IEEE Conference on Computational Intelligence and Games},
   year = {2010},
-  pages = {91--98},
-  organization = {IEEE},
   owner = {alexzook},
   timestamp = {2013.03.17}
 }
@@ -3242,7 +3225,6 @@
   title = {An experiment in automatic game design},
   booktitle = {IEEE Symposium on Computational Intelligence and Games},
   year = {2008},
-  pages = {111--118},
   owner = {alexzook},
   timestamp = {2013.03.17}
 }
@@ -3308,8 +3290,6 @@
 	methodology for message-driven games using graphical logics},
   booktitle = {5th International Conference on the Foundations of Digital Games},
   year = {2010},
-  pages = {224--231},
-  organization = {ACM},
   owner = {Alex},
   timestamp = {2013.03.19}
 }
@@ -3319,8 +3299,6 @@
   title = {The micro-rhetorics of Game-o-Matic},
   booktitle = {7th International Conference on the Foundations of Digital Games},
   year = {2012},
-  pages = {18--25},
-  organization = {ACM},
   owner = {alexzook},
   timestamp = {2013.03.17}
 }
@@ -3331,8 +3309,6 @@
 	logics},
   booktitle = {6th International Conference on Foundations of Digital Games},
   year = {2011},
-  pages = {115--122},
-  organization = {ACM},
   owner = {Alex},
   timestamp = {2013.11.17}
 }
