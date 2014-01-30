@@ -57,7 +57,7 @@
 }
 
 @BOOK{anderson1993,
-  title = {Rules of the mind},
+  title = {Rules of the Mind},
   publisher = {Lawrence Erlbaum},
   year = {1993},
   author = {Anderson, J.R.},
@@ -79,9 +79,9 @@
 }
 
 @BOOK{anthropy2012:zinesters,
-  title = {Rise of the videogame zinesters: how freaks, normals, amateurs, artists,
-	dreamers, drop-outs, queers, housewives, and people like you are
-	taking back an art form},
+  title = {Rise of the Videogame Zinesters: How Freaks, Normals, Amateurs, Artists,
+	Dreamers, Drop-outs, Queers, Housewives, and People Like You Are
+	Taking Back an Art Form},
   publisher = {Seven Stories Press},
   year = {2012},
   author = {Anthropy, Anna},
@@ -117,7 +117,7 @@
 }
 
 @BOOK{baral2003:asp,
-  title = {Knowledge representation, reasoning and declarative problem solving},
+  title = {Knowledge Representation, Reasoning and Declarative Problem Solving},
   publisher = {Cambridge University Press},
   year = {2003},
   author = {Baral, Chitta},
@@ -202,7 +202,7 @@
 }
 
 @BOOK{boden2003:comp-creativity,
-  title = {The creative mind: myths and mechanisms},
+  title = {The Creative Mind: Myths and Mechanisms},
   publisher = {Routledge},
   year = {2003},
   author = {Boden, Margaret A},
@@ -211,7 +211,7 @@
 }
 
 @BOOK{bogost2011:howto,
-  title = {How to do things with videogames},
+  title = {How to Do Things with Videogames},
   publisher = {University of Minnesota Press},
   year = {2011},
   author = {Bogost, Ian},
@@ -220,7 +220,7 @@
 }
 
 @BOOK{bogost2007:persuasive,
-  title = {Persuasive games: The expressive power of videogames},
+  title = {Persuasive Games: The Expressive Power of Videogames},
   publisher = {The MIT Press},
   year = {2007},
   author = {Bogost, I},
@@ -229,7 +229,7 @@
 }
 
 @BOOK{bogost2006:unitop,
-  title = {Unit operations: An approach to videogame criticism},
+  title = {Unit Operations: An Approach to Videogame Criticism},
   publisher = {MIT Press},
   year = {2006},
   author = {Bogost, Ian},
@@ -524,7 +524,7 @@
 
 @INPROCEEDINGS{cook2013:mechanicminer,
   author = {Cook, Michael and Colton, Simon and Raad, Azalea and Gow, Jeremy},
-  title = {Mechanic Miner: Reflection-Driven Game Mechanic Discovery and Level
+  title = {Mechanic {M}iner: Reflection-Driven Game Mechanic Discovery and Level
 	Design},
   booktitle = {EvoGAMES},
   year = {2013},
@@ -569,7 +569,7 @@
 }
 
 @BOOK{crawford1984:gamedesign,
-  title = {The art of computer game design},
+  title = {The Art of Computer Game Design},
   publisher = {Osborne/McGraw-Hill Berkeley, CA},
   year = {1984},
   author = {Crawford, C.},
@@ -693,7 +693,7 @@
 
 @INPROCEEDINGS{dormans2011:modelxform,
   author = {Dormans, Joris},
-  title = {Level design as model transformation: a strategy for automated content
+  title = {Level design as model transformation: A strategy for automated content
 	generation},
   booktitle = {Proceedings of the Second International Workshop on Procedural Content
 	Generation in Games},
@@ -706,7 +706,7 @@
 
 @INPROCEEDINGS{dormans2010:missions,
   author = {Joris Dormans},
-  title = {Adventures in level design: generating missions and spaces for action
+  title = {Adventures in level design: Generating missions and spaces for action
 	adventure games},
   booktitle = {1st Workshop on Procedural Content Generation in Games},
   year = {2010},
@@ -724,7 +724,7 @@
 }
 
 @BOOK{elias2012:characteristics-games,
-  title = {Characteristics of games},
+  title = {Characteristics of Games},
   publisher = {MIT Press},
   year = {2012},
   author = {Elias, G.S. and Garfield, R. and Gutschera, K.R.},
@@ -741,8 +741,8 @@
   timestamp = {2013.11.17}
 }
 
-@BOOK{Fauconnier2003,
-  title = {The way we think: Conceptual blending and the mind's hidden complexities},
+@BOOK{fauconnier2003:concept-blend,
+  title = {The Way We Think: Conceptual Blending And The Mind's Hidden Complexities},
   publisher = {Basic Books},
   year = {2003},
   author = {Fauconnier, G. and Turner, M.},
@@ -779,8 +779,8 @@
 
 @ARTICLE{fikes1972:strips,
   author = {Fikes, Richard E and Nilsson, Nils J},
-  title = {STRIPS: A new approach to the application of theorem proving to problem
-	solving},
+  title = {{STRIPS}: A new approach to the application of theorem proving to
+	problem solving},
   journal = {Artificial Intelligence},
   year = {1972},
   volume = {2},
@@ -883,8 +883,8 @@
 }
 
 @BOOK{fullerton2008:playcentric,
-  title = {Game design workshop: a playcentric approach to creating innovative
-	games},
+  title = {Game Design Workshop: A Playcentric Approach to Creating Innovative
+	Games},
   publisher = {Morgan Kaufmann},
   year = {2008},
   author = {Fullerton, T. and Swain, C. and Hoffman, S.},
@@ -917,7 +917,7 @@
 }
 
 @BOOK{gamma1993:prog-design-pattern,
-  title = {Design patterns: Abstraction and reuse of object-oriented design},
+  title = {Design Patterns: Abstraction and Reuse of Object-Oriented Design},
   publisher = {Springer},
   year = {1993},
   author = {Gamma, Erich and Helm, Richard and Johnson, Ralph and Vlissides,
@@ -948,11 +948,12 @@
   timestamp = {2013.11.04}
 }
 
-@BOOK{gee2003:game-literacy,
-  title = {What video games have to teach us about literacy and learning},
+@BOOK{gee2007:game-literacy,
+  title = {What Video Games Have to Teach Us About Learning and Literacy},
   publisher = {Palgraw Macmillan},
-  year = {2003},
+  year = {2007},
   author = {Gee, James Paul},
+  edition = {2nd},
   journal = {New York: Palgraw Macmillan},
   owner = {Alex},
   timestamp = {2013.11.04}
@@ -993,7 +994,7 @@
 }
 
 @BOOK{ghallab2004:planning,
-  title = {Automated planning: theory \& practice},
+  title = {Automated Planning: Theory \& Practice},
   publisher = {Elsevier},
   year = {2004},
   author = {Ghallab, Malik and Nau, Dana and Traverso, Paolo},
@@ -1270,8 +1271,8 @@
   timestamp = {2013.11.17}
 }
 
-@BOOK{Jaccard1901,
-  title = {Etude comparative de la distribution florale dans une portion des
+@BOOK{jaccard1901,
+  title = {Etude Comparative de la Distribution Florale dans une Portion des
 	Alpes et du Jura},
   publisher = {Impr. Corbaz},
   year = {1901},
@@ -1281,7 +1282,7 @@
 }
 
 @BOOK{jackson2010:soc-econ-networks,
-  title = {Social and economic networks},
+  title = {Social and Economic Networks},
   publisher = {Princeton University Press},
   year = {2010},
   author = {Jackson, Matthew O},
@@ -1300,8 +1301,8 @@
   timestamp = {2013.03.18}
 }
 
-@BOOK{Johnstone1999,
-  title = {Impro for storytellers},
+@BOOK{johnstone1999:impro-storyteller,
+  title = {Impro for Storytellers},
   publisher = {Theatre Arts Books},
   year = {1999},
   author = {Johnstone, K.},
@@ -1309,8 +1310,8 @@
   timestamp = {2013.03.07}
 }
 
-@BOOK{Johnstone1979,
-  title = {Impro: Improvisation and the theatre},
+@BOOK{johnstone1979:impro,
+  title = {Impro: Improvisation and the Theatre},
   publisher = {Theatre Arts Books},
   year = {1979},
   author = {Johnstone, K. and Wardle, I.},
@@ -1392,6 +1393,16 @@
   timestamp = {2013.11.10}
 }
 
+@BOOK{koster2013:theory-fun,
+  title = {A Theory of Fun in Game Design},
+  publisher = {Paraglyph press},
+  year = {2013},
+  author = {Koster, R.},
+  edition = {2nd},
+  owner = {Alex},
+  timestamp = {2013.03.07}
+}
+
 @CONFERENCE{koster2012:theory-fun-10years,
   author = {Koster, Raph},
   title = {ATheory of Fun, 10 Years Later},
@@ -1411,16 +1422,17 @@
 }
 
 @BOOK{koster2005:theory-fun,
-  title = {A theory of fun in game design},
+  title = {A Theory of Fun in Game Design},
   publisher = {Paraglyph press},
   year = {2005},
   author = {Koster, R.},
+  edition = {1st},
   owner = {Alex},
   timestamp = {2013.03.07}
 }
 
 @BOOK{koza2003:gp-4,
-  title = {Genetic programming IV: Routine human-competitive machine intelligence},
+  title = {Genetic Programming IV: Routine Human-Competitive Machine Intelligence},
   publisher = {Kluwer Academic Publishers},
   year = {2003},
   author = {Koza, John R. and Keane, Martin A. and Streeter, Matthew J. and Mydlowec,
@@ -1454,8 +1466,8 @@
 }
 
 @BOOK{lakoff1990:categories,
-  title = {Women, fire, and dangerous things: What categories reveal about the
-	mind},
+  title = {Women, Fire, and Dangerous Things: What Categories Reveal about the
+	Mind},
   publisher = {Cambridge Univ Press},
   year = {1990},
   author = {Lakoff, G.},
@@ -1464,7 +1476,7 @@
 }
 
 @BOOK{lakoff2003:metaphors,
-  title = {Metaphors we live by},
+  title = {Metaphors We Live By},
   publisher = {Univ of Chicago Press},
   year = {2003},
   author = {Lakoff, G. and Johnson, M.}
@@ -1494,7 +1506,7 @@
 @ELECTRONIC{lavelle2013:puzzlescript,
   author = {Lavelle, Stephen},
   year = {2013},
-  title = {PuzzleScript},
+  title = {Puzzle{S}cript},
   howpublished = {website},
   url = {http://www.puzzlescript.net/},
   owner = {Alex},
@@ -1965,8 +1977,8 @@
 }
 
 @BOOK{mcgonigal2011:realitybroken,
-  title = {Reality is broken: why games make us better and how they can change
-	the world},
+  title = {Reality Is Broken: Why Games Make Us Better and How They Can Change
+	the World},
   publisher = {Penguin Press HC},
   year = {2011},
   author = {McGonigal, Jane},
@@ -2013,8 +2025,8 @@
   timestamp = {2013.03.07}
 }
 
-@BOOK{Millington2009,
-  title = {Artificial intelligence for games},
+@BOOK{millington2009:game-ai,
+  title = {Artificial Intelligence for Games},
   publisher = {Morgan Kaufmann},
   year = {2009},
   author = {Millington, I. and Funge, J.},
@@ -2123,7 +2135,7 @@
 }
 
 @BOOK{newell1959:processes-creative,
-  title = {The processes of creative thinking},
+  title = {The Processes of Creative Thinking},
   publisher = {Rand Corporation},
   year = {1959},
   author = {Newell, Allen and Shaw, JC and Simon, Herbert A},
@@ -2385,8 +2397,8 @@
   timestamp = {2013.11.10}
 }
 
-@BOOK{rasmussen2006,
-  title = {Gaussian processes for machine learning},
+@BOOK{rasmussen2006:gp,
+  title = {Gaussian Processes for Machine Learning},
   publisher = {MIT press Cambridge, MA},
   year = {2006},
   author = {Rasmussen, Carl Edward and Williams, Christopher KI},
@@ -2571,7 +2583,7 @@
 }
 
 @BOOK{russell2009:ai,
-  title = {Artificial intelligence: a modern approach},
+  title = {Artificial Intelligence: A Modern Approach},
   publisher = {Prentice Hall},
   year = {2009},
   author = {Russell, Stuart Jonathan and Norvig, Peter},
@@ -2581,7 +2593,7 @@
 }
 
 @BOOK{salen2006:reader,
-  title = {The game design reader: a rules of play anthology},
+  title = {The Game Design Reader: A Rules of Play Anthology},
   publisher = {MIT Press},
   year = {2006},
   author = {Salen, Katie and Zimmerman, Eric},
@@ -2593,7 +2605,7 @@
 }
 
 @BOOK{salen2003:rulesplay,
-  title = {Rules of play: game design fundamentals},
+  title = {Rules of Play: Game Design Fundamentals},
   publisher = {MIT Press},
   year = {2003},
   author = {Salen, Katie and Zimmerman, Eric},
@@ -2627,8 +2639,8 @@
   timestamp = {2013.11.10}
 }
 
-@BOOK{Sawyer1997,
-  title = {Pretend play as improvisation: Conversation in the preschool classroom},
+@BOOK{sawyer1997:play-improv,
+  title = {Pretend Play as Improvisation: Conversation in the Preschool Classroom},
   publisher = {Lawrence Erlbaum Associates, Inc},
   year = {1997},
   author = {Sawyer, R.K.},
@@ -2637,7 +2649,7 @@
 }
 
 @BOOK{sawyer2012:explain-creativity,
-  title = {Explaining creativity: The science of human innovation},
+  title = {Explaining Creativity: The Science of Human Innovation},
   publisher = {Oxford University Press},
   year = {2012},
   author = {Sawyer, R Keith},
@@ -2681,7 +2693,7 @@
 }
 
 @BOOK{schell2008:gamedesign,
-  title = {The art of game design: a book of lenses},
+  title = {The Art of Game Design: A Book of Lenses},
   publisher = {Elsevier/Morgan Kaufmann},
   year = {2008},
   author = {Schell, Jesse},
@@ -2741,7 +2753,7 @@
 }
 
 @BOOK{settles2012:al-book,
-  title = {Active learning},
+  title = {Active Learning},
   publisher = {Morgan \& Claypool Publishers},
   year = {2012},
   author = {Settles, Burr},
@@ -2837,7 +2849,7 @@
   url = {http://scholar.google.com/scholar?hl=en\&btnG=Search\&q=intitle:Player+Modeling+Evaluation+for+Interactive+Fiction\#0}
 }
 
-@BOOK{Shawe-Taylor2004,
+@BOOK{shawe-taylor2004:kernel-methods,
   title = {Kernel Methods for Pattern Analysis},
   publisher = {Cambridge University Press},
   year = {2004},
@@ -2996,7 +3008,7 @@
 
 @INPROCEEDINGS{smith2010:ludocore,
   author = {Smith, Adam M and Nelson, Mark J and Mateas, Michael},
-  title = {Ludocore: A logical game engine for modeling videogames},
+  title = {{LUDOCORE}: A logical game engine for modeling videogames},
   booktitle = {IEEE Conference on Computational Intelligence and Games},
   year = {2010},
   owner = {alexzook},
@@ -3068,8 +3080,8 @@
   timestamp = {2013.03.07}
 }
 
-@BOOK{Spolin1963,
-  title = {Improvisation for the theater},
+@BOOK{spolin1963:improvisation,
+  title = {Improvisation for the Theater},
   publisher = {Northwestern Univ Press},
   year = {1963},
   author = {Spolin, V.},
@@ -3115,8 +3127,8 @@
   timestamp = {2013.03.07}
 }
 
-@BOOK{Sutton-Smith1997,
-  title = {The ambiguity of play},
+@BOOK{sutton-smith1997:ambiguity-play,
+  title = {The Ambiguity of Play},
   publisher = {Harvard Univ Press},
   year = {1997},
   author = {Sutton-Smith, B.},
@@ -3139,7 +3151,7 @@
 }
 
 @BOOK{swink2009:gamefeel,
-  title = {Game feel: a game designer's guide to virtual sensation},
+  title = {Game Feel: A Game Designer's Guide to Virtual Sensation},
   publisher = {Morgan Kaufmann},
   year = {2009},
   author = {Swink, Steve},
@@ -3296,7 +3308,7 @@
 
 @INPROCEEDINGS{treanor2012:gameomatic,
   author = {Treanor, Mike and Schweizer, Bobby and Bogost, Ian and Mateas, Michael},
-  title = {The micro-rhetorics of Game-o-Matic},
+  title = {The micro-rhetorics of {G}ame-{O}-{M}atic},
   booktitle = {7th International Conference on the Foundations of Digital Games},
   year = {2012},
   owner = {alexzook},
@@ -3419,7 +3431,7 @@
 }
 
 @BOOK{wallace1989:creative-people,
-  title = {Creative people at work: Twelve cognitive case studies},
+  title = {Creative People at Work: Twelve Cognitive Case Studies},
   publisher = {Oxford University Press},
   year = {1989},
   author = {Wallace, Doris B and Gruber, Howard E},
@@ -3441,8 +3453,8 @@
 }
 
 @BOOK{wardrip-fruin2009:book,
-  title = {Expressive Processing: Digital fictions, computer games, and software
-	studies},
+  title = {Expressive Processing: Digital fictions, Computer Games, and Software
+	Studies},
   publisher = {The MIT Press},
   year = {2009},
   author = {Wardrip-Fruin, Noah},
@@ -3473,12 +3485,13 @@
   timestamp = {2013.11.10}
 }
 
-@BOOK{Weyhrauch1997,
-  title = {Guiding interactive drama},
-  publisher = {Carnegie Mellon University},
+@PHDTHESIS{weyhrauch1997:thesis,
+  author = {Weyhrauch, P.},
+  title = {Guiding Interactive Drama},
+  school = {Carnegie Mellon University},
   year = {1997},
-  author = {Weyhrauch, P. and Bates, J.},
   owner = {Alex},
+  publisher = {Carnegie Mellon University},
   timestamp = {2013.03.07}
 }
 
