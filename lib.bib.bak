@@ -56,7 +56,7 @@
   timestamp = {2013.03.17}
 }
 
-@BOOK{anderson1993,
+@BOOK{anderson1993:rules-mind,
   title = {Rules of the Mind},
   publisher = {Lawrence Erlbaum},
   year = {1993},
@@ -2246,6 +2246,15 @@
   timestamp = {2013.10.25}
 }
 
+@INPROCEEDINGS{pantaleev2012:rpg-class,
+  author = {Pantaleev, Alex},
+  title = {In search of patterns: Disrupting {RPG} classes through procedural
+	content generation},
+  year = {2012},
+  owner = {Alex},
+  timestamp = {2014.02.10}
+}
+
 @PHDTHESIS{pease2007:lakatos-thesis,
   author = {Pease, Alison},
   title = {A computational model of Lakatos-style reasoning},
@@ -3018,7 +3027,7 @@
 @INPROCEEDINGS{smith2012:endlessweb,
   author = {Smith, Gillian and Othenin-Girard, Alexei and Whitehead, Jim and
 	Wardrip-Fruin, Noah},
-  title = {PCG-based game design: creating Endless Web},
+  title = {{PCG}-based game design: creating {E}ndless {W}eb},
   booktitle = {7th International Conference on the Foundations of Digital Games},
   year = {2012},
   pages = {188--195},
@@ -3055,7 +3064,7 @@
 @ARTICLE{smith2011:launchpad,
   author = {Smith, Gillian and Whitehead, Jim and Mateas, Michael and Treanor,
 	Mike and March, Jameka and Cha, Mee},
-  title = {Launchpad: A Rhythm-Based Level Generator for 2-D Platformers},
+  title = {Launchpad: A Rhythm-Based Level Generator for 2-{D} Platformers},
   journal = {IEEE Transactions on Computational Intelligence and AI in Games},
   year = {2011},
   volume = {3},
