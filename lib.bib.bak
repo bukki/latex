@@ -22,6 +22,19 @@
   timestamp = {2013.05.11}
 }
 
+@ARTICLE{vonahn2008:gwap,
+  author = {von Ahn, Luis and Dabbish, Laura},
+  title = {Designing Games with a Purpose},
+  journal = {Communications of the ACM},
+  year = {2008},
+  volume = {51},
+  pages = {58--67},
+  number = {8},
+  owner = {Alex},
+  publisher = {ACM},
+  timestamp = {2013.11.03}
+}
+
 @INPROCEEDINGS{vonahn2004:esp,
   author = {von Ahn, L. and Dabbish, L.},
   title = {Labeling images with a computer game},
@@ -112,8 +125,7 @@
   issn = {1875-9521},
   keywords = {Video game \{AI\}},
   owner = {Alex},
-  timestamp = {2013.05.11},
-  url = {http://www.sciencedirect.com/science/article/pii/S1875952111000486}
+  timestamp = {2013.05.11}
 }
 
 @BOOK{baral2003:asp,
@@ -396,21 +408,7 @@
   timestamp = {2013.11.10}
 }
 
-@INPROCEEDINGS{Cheong2011,
-  author = {Cheong, Y.G. and Khaled, R. and Grappiolo, C. and Campos, J. and
-	Martinho, C. and Ingram, G.P.D. and Paiva, A. and Yannakakis, G.},
-  title = {A computational approach towards conflict resolution for serious
-	games},
-  booktitle = {Proceedings of the 6th International Conference on Foundations of
-	Digital Games},
-  year = {2011},
-  pages = {15--22},
-  organization = {ACM},
-  owner = {Alex},
-  timestamp = {2013.03.07}
-}
-
-@INPROCEEDINGS{chu2005,
+@INPROCEEDINGS{chu2005:gp-pref-learn,
   author = {Chu, Wei and Ghahramani, Zoubin},
   title = {Preference learning with Gaussian processes},
   booktitle = {Proceedings of the 22nd International Conference on Machine learning},
@@ -443,19 +441,6 @@
   number = {8},
   owner = {Alex},
   timestamp = {2013.11.17}
-}
-
-@ARTICLE{Clark1989,
-  author = {Clark, H.H. and Schaefer, E.F.},
-  title = {Contributing to discourse},
-  journal = {Cognitive science},
-  year = {1989},
-  volume = {13},
-  pages = {259--294},
-  number = {2},
-  owner = {Alex},
-  publisher = {Elsevier},
-  timestamp = {2013.03.07}
 }
 
 @INPROCEEDINGS{colton2009:seven-phrases,
@@ -562,21 +547,6 @@
   year = {2013},
   owner = {alexzook},
   timestamp = {2013.03.17}
-}
-
-@ARTICLE{Cooper2010,
-  author = {Cooper, S. and Khatib, F. and Treuille, A. and Barbero, J. and Lee,
-	J. and Beenen, M. and Leaver-Fay, A. and Baker, D. and Popovi{\'c},
-	Z. and others},
-  title = {Predicting protein structures with a multiplayer online game},
-  journal = {Nature},
-  year = {2010},
-  volume = {466},
-  pages = {756--760},
-  number = {7307},
-  owner = {Alex},
-  publisher = {Nature Publishing Group},
-  timestamp = {2013.03.07}
 }
 
 @CONFERENCE{cousins2005:ludeme,
@@ -782,19 +752,6 @@
   timestamp = {2013.03.07}
 }
 
-@ARTICLE{Fauconnier1998,
-  author = {Fauconnier, G. and Turner, M.},
-  title = {Conceptual integration networks},
-  journal = {Cognitive science},
-  year = {1998},
-  volume = {22},
-  pages = {133--187},
-  number = {2},
-  owner = {Alex},
-  publisher = {Elsevier},
-  timestamp = {2013.03.07}
-}
-
 @INBOOK{fernandez-vara2007:evol-space-in-games,
   chapter = {Evolution of Spatial Configurations in Videogames},
   pages = {159--168},
@@ -891,7 +848,7 @@
   timestamp = {2013.05.11}
 }
 
-@INPROCEEDINGS{Fuller2010,
+@INPROCEEDINGS{fuller2010:improv-shared-mm,
   author = {Fuller, D. and Magerko, B.},
   title = {Shared mental models in improvisational performance},
   booktitle = {Proc. of the 3rd Intelligent Narrative Technologies Workshop},
@@ -1043,8 +1000,7 @@
 	Digital Entertainment Conference},
   year = {2011},
   owner = {Alex},
-  timestamp = {2013.03.07},
-  url = {http://www.aaai.org/ocs/index.php/AIIDE/AIIDE11WS/paper/viewPDFInterstitial/4113/4456}
+  timestamp = {2013.03.07}
 }
 
 @ARTICLE{goel1997:design-creativity,
@@ -1399,7 +1355,7 @@
 
 @INCOLLECTION{koren2011:cf-review,
   author = {Koren, Yehuda and Bell, Robert},
-  title = {{Advances in Collaborative Filtering}},
+  title = {Advances in Collaborative Filtering},
   booktitle = {Recommender Systems Handbook},
   publisher = {Springer},
   year = {2011},
@@ -1407,7 +1363,6 @@
 	Paul B.},
   pages = {145--186},
   address = {Boston, MA},
-  doi = {10.1007/978-0-387-85820-3},
   isbn = {978-0-387-85819-7},
   owner = {Alex},
   timestamp = {2013.03.07}
@@ -1437,11 +1392,12 @@
 
 @CONFERENCE{koster2012:theory-fun-10years,
   author = {Koster, Raph},
-  title = {ATheory of Fun, 10 Years Later},
+  title = {A Theory of Fun, 10 Years Later},
   booktitle = {Game Developers Conference Online},
   year = {2012},
   owner = {Alex},
-  timestamp = {2013.11.17}
+  timestamp = {2013.11.17},
+  url = {http://www.gdcvault.com/play/1016632/A-Theory-of-Fun-10}
 }
 
 @CONFERENCE{koster2005:game-grammar,
@@ -1577,28 +1533,6 @@
   timestamp = {2013.03.07}
 }
 
-@INPROCEEDINGS{Lesk1986,
-  author = {Lesk, M.},
-  title = {Automatic sense disambiguation using machine readable dictionaries:
-	how to tell a pine cone from an ice cream cone},
-  booktitle = {Proc. of the 5th Intl. Conf. on Systems Documentation},
-  year = {1986},
-  pages = {24--26},
-  organization = {ACM},
-  owner = {Alex},
-  timestamp = {2013.03.07}
-}
-
-@INPROCEEDINGS{Lesot2005,
-  author = {Lesot, M.J.},
-  title = {Similarity, typicality and fuzzy prototypes for numerical data},
-  booktitle = {6th European Congress on Systems Science, Workshop on Similarity
-	and Resemblance},
-  year = {2005},
-  owner = {Alex},
-  timestamp = {2013.03.07}
-}
-
 @ARTICLE{li2012:crowdsource-narr-int,
   author = {Li, Boyang and Lee-Urban, Stephen and Appling, Darren Scott and Riedl,
 	Mark O},
@@ -1656,20 +1590,6 @@
   timestamp = {2013.03.17}
 }
 
-@ARTICLE{Li2003,
-  author = {Li, Y. and Bandar, Z.A. and McLean, D.},
-  title = {An approach for measuring semantic similarity between words using
-	multiple information sources},
-  journal = {IEEE Trans. Knowledge and Data Engineering},
-  year = {2003},
-  volume = {15},
-  pages = {871--882},
-  number = {4},
-  owner = {Alex},
-  publisher = {IEEE},
-  timestamp = {2013.03.07}
-}
-
 @INPROCEEDINGS{liapis2013:rank-based-interactive-evol,
   author = {Liapis, Antonios and Mart{\i}nez, H{\'e}ctor P and Togelius, Julian
 	and Yannakakis, Georgios N},
@@ -1694,11 +1614,12 @@
   timestamp = {2013.05.11}
 }
 
-@UNPUBLISHED{lin2013:toxic-behav,
+@CONFERENCE{lin2013:toxic-behav,
   author = {Jeffrey Lin},
   title = {The Science Behind Shaping Player Behavior in Online Games},
-  note = {Game Developers Conference},
+  booktitle = {Game Developers Conference},
   year = {2013},
+  note = {Game Developers Conference},
   owner = {Alex},
   timestamp = {2013.05.11},
   url = {http://www.gdcvault.com/play/1017940/The-Science-Behind-Shaping-Player}
@@ -1719,12 +1640,11 @@
   journal = {IEEE Trans. Computational Intelligence and AI in Games},
   year = {2013},
   volume = {to appear},
-  pages = {X},
   owner = {Alex},
   timestamp = {2013.11.17}
 }
 
-@PHDTHESIS{lizotte2008,
+@PHDTHESIS{lizotte2008:bayes-opt,
   author = {Lizotte, Daniel James},
   title = {Practical bayesian optimization},
   school = {University of Alberta},
@@ -1818,7 +1738,7 @@
   timestamp = {2013.03.07}
 }
 
-@INPROCEEDINGS{Magerko2009,
+@INPROCEEDINGS{magerko2009:improv-study,
   author = {Magerko, B. and Manzoul, W. and Riedl, M. and Baumer, A. and Fuller,
 	D. and Luther, K. and Pearce, C.},
   title = {An empirical study of cognition and theatrical improvisation},
@@ -1914,18 +1834,6 @@
   timestamp = {2013.11.17}
 }
 
-@ARTICLE{Mairal2010,
-  author = {Mairal, J. and Bach, F. and Ponce, J. and Sapiro, G.},
-  title = {Online learning for matrix factorization and sparse coding},
-  journal = {The Journal of Machine Learning Research},
-  year = {2010},
-  volume = {11},
-  pages = {19--60},
-  owner = {Alex},
-  publisher = {JMLR.org},
-  timestamp = {2013.03.07}
-}
-
 @INPROCEEDINGS{manker2011:prototyping,
   author = {Manker, J.},
   title = {Game Design Prototyping},
@@ -1933,17 +1841,6 @@
   year = {2011},
   owner = {Alex},
   timestamp = {2013.03.19}
-}
-
-@INPROCEEDINGS{Manna2010,
-  author = {Manna, S. and Mendis, B.S.U.},
-  title = {Fuzzy word similarity: A semantic approach using WordNet},
-  booktitle = {IEEE Intl. Conf. on Fuzzy Systems},
-  year = {2010},
-  pages = {1--8},
-  organization = {IEEE},
-  owner = {Alex},
-  timestamp = {2013.03.07}
 }
 
 @INCOLLECTION{mateas1999:oz-review-dm,
@@ -1981,21 +1878,6 @@
   timestamp = {2013.11.17}
 }
 
-@ARTICLE{Mavandadi2012,
-  author = {Mavandadi, S. and Feng, S. and Yu, F. and Dimitrov, S. and Yu, R.
-	and Ozcan, A.},
-  title = {BioGames: A platform for crowd-sourced biomedical image analysis
-	and telediagnosis},
-  journal = {Games for Health: Research, Development, and Clinical Applications},
-  year = {2012},
-  volume = {1},
-  pages = {373--376},
-  number = {5},
-  owner = {Alex},
-  publisher = {Mary Ann Liebert, Inc.},
-  timestamp = {2013.03.07}
-}
-
 @TECHREPORT{mcdermott1998:pddl,
   author = {McDermott, Drew and Ghallab, Malik and Howe, Adele and Knoblock,
 	Craig and Ram, Ashwin and Veloso, Manuela and Weld, Daniel and Wilkins,
@@ -2005,17 +1887,6 @@
   year = {1998},
   owner = {Alex},
   timestamp = {2014.01.22}
-}
-
-@INPROCEEDINGS{McGee2010,
-  author = {McGee, K. and Abraham, A.T.},
-  title = {Real-time team-mate AI in games: a definition, survey, \& critique},
-  booktitle = {Proc. of the 5th Intl. Conf. on the Foundations of Digital Games},
-  year = {2010},
-  pages = {124--131},
-  organization = {ACM},
-  owner = {Alex},
-  timestamp = {2013.03.07}
 }
 
 @BOOK{mcgonigal2011:realitybroken,
@@ -2052,19 +1923,6 @@
   owner = {Alex},
   publisher = {Sage Publications},
   timestamp = {2013.11.10}
-}
-
-@INPROCEEDINGS{Mihalcea2006,
-  author = {Mihalcea, R. and Corley, C. and Strapparava, C.},
-  title = {Corpus-based and knowledge-based measures of text semantic similarity},
-  booktitle = {Proc. of the Natl. Conf. on Artif. Intel.},
-  year = {2006},
-  volume = {21},
-  number = {1},
-  pages = {775},
-  organization = {AAAI Press},
-  owner = {Alex},
-  timestamp = {2013.03.07}
 }
 
 @BOOK{millington2009:game-ai,
@@ -2172,8 +2030,7 @@
 	and Interactive Digital Entertainment (AIIDE)},
   year = {2005},
   owner = {Alex},
-  timestamp = {2013.03.07},
-  url = {http://scholar.google.com/scholar?hl=en\&btnG=Search\&q=intitle:Search-Based+Drama+Management+in+the+Interactive+Fiction+Anchorhead\#0}
+  timestamp = {2013.03.07}
 }
 
 @BOOK{newell1959:processes-creative,
@@ -2183,19 +2040,6 @@
   author = {Newell, Allen and Shaw, JC and Simon, Herbert A},
   owner = {Alex},
   timestamp = {2013.11.13}
-}
-
-@ARTICLE{Nilsson1986,
-  author = {Nilsson, N.J.},
-  title = {Probabilistic logic},
-  journal = {Artificial intelligence},
-  year = {1986},
-  volume = {28},
-  pages = {71--87},
-  number = {1},
-  owner = {Alex},
-  publisher = {Elsevier},
-  timestamp = {2013.03.07}
 }
 
 @INPROCEEDINGS{normoyle2012:al-metrics,
@@ -2217,19 +2061,6 @@
   year = {2013},
   owner = {Alex},
   timestamp = {2013.11.14}
-}
-
-@ARTICLE{O`Neill2011,
-  author = {O'Neill, B. and Piplica, A. and Fuller, D. and Magerko, B.},
-  title = {A knowledge-based framework for the collaborative improvisation of
-	scene introductions},
-  journal = {Proc. of the 4th Intl. Conf. on Interactive Digital Storytelling},
-  year = {2011},
-  volume = {1},
-  pages = {85--96},
-  owner = {Alex},
-  publisher = {Springer},
-  timestamp = {2013.03.07}
 }
 
 @INPROCEEDINGS{oneill2009:audience,
@@ -2403,22 +2234,10 @@
   timestamp = {2013.03.17}
 }
 
-@INPROCEEDINGS{Porteous2011,
-  author = {Porteous, Julie and Teutenberg, Jonathan and Pizzi, David and Cavazza,
-	Marc},
-  title = {{Visual Programming of Plan Dynamics using Constraints and Landmarks}},
-  booktitle = {Proceedings of the 21st International Conference on Automated Planning
-	and Scheduling},
-  year = {2011},
-  owner = {Alex},
-  timestamp = {2013.03.07},
-  url = {http://www.aaai.org/ocs/index.php/ICAPS/ICAPS11/paper/viewFile/2681/3153}
-}
-
-@INPROCEEDINGS{Quinn2011,
+@INPROCEEDINGS{quinn2011:hcomp-overview,
   author = {Quinn, A.J. and Bederson, B.B.},
   title = {Human computation: a survey and taxonomy of a growing field},
-  booktitle = {Proc. of the SIGCHI Conf. on Human Factors in Computing Systems},
+  booktitle = {SIGCHI Conf. on Human Factors in Computing Systems},
   year = {2011},
   pages = {1403--1412},
   organization = {ACM},
@@ -2459,16 +2278,6 @@
   timestamp = {2013.03.16}
 }
 
-@INPROCEEDINGS{Resnik1995,
-  author = {Resnik, P.},
-  title = {Disambiguating noun groupings with respect to WordNet senses},
-  booktitle = {Proc. of the 3rd Workshop on Very Large Corpora},
-  year = {1995},
-  pages = {54--68},
-  owner = {Alex},
-  timestamp = {2013.03.07}
-}
-
 @ARTICLE{rhodes1961:creativity-4p,
   author = {Rhodes, Mel},
   title = {An analysis of creativity},
@@ -2494,7 +2303,7 @@
   timestamp = {2013.11.10}
 }
 
-@ARTICLE{Riedl2008,
+@ARTICLE{riedl2008:dyn-expr-manage,
   author = {Riedl, M.O. and Stern, A. and Dini, D. and Alderman, J.},
   title = {Dynamic experience management in virtual worlds for entertainment,
 	education, and training},
@@ -2512,6 +2321,9 @@
   title = {Interactive Narrative: An Intelligent Systems Approach},
   journal = {AI Magazine},
   year = {2013},
+  volume = {34},
+  pages = {67--77},
+  number = {1},
   owner = {Alex},
   timestamp = {2013.03.14}
 }
@@ -2709,18 +2521,6 @@
   timestamp = {2013.11.10}
 }
 
-@ARTICLE{Sawyers2003,
-  author = {Sawyers, J.K. and Carrick, N.},
-  title = {Symbolic play through the eyes and words of children},
-  journal = {Play and Culture Studies},
-  year = {2003},
-  volume = {5},
-  pages = {159--182},
-  owner = {Alex},
-  publisher = {Ablex Publishing},
-  timestamp = {2013.03.07}
-}
-
 @INPROCEEDINGS{schaul2013:pyvgdl,
   author = {Schaul, Tom},
   title = {A Video Game Description Language for Model-based or Interactive
@@ -2864,8 +2664,7 @@
   booktitle = {IEEE Conference on Computational Intelligence and Games},
   year = {2011},
   owner = {Alex},
-  timestamp = {2013.03.07},
-  url = {http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=6031998}
+  timestamp = {2013.03.07}
 }
 
 @ARTICLE{shaker2013:crowdsource-platform-aesthetics,
@@ -2897,8 +2696,7 @@
 	Entertainment Conference Workshop on Optimizing Player Satisfaction},
   year = {2007},
   owner = {Alex},
-  timestamp = {2013.03.07},
-  url = {http://scholar.google.com/scholar?hl=en\&btnG=Search\&q=intitle:Player+Modeling+Evaluation+for+Interactive+Fiction\#0}
+  timestamp = {2013.03.07}
 }
 
 @BOOK{shawe-taylor2004:kernel-methods,
@@ -3393,8 +3191,7 @@
   owner = {alexzook},
   publisher = {American Association for the Advancement of Science},
   series = {New Series},
-  timestamp = {2013.03.17},
-  url = {http://www.jstor.org/stable/1738360}
+  timestamp = {2013.03.17}
 }
 
 @ARTICLE{vanlehn2006:behav-its,
@@ -3467,19 +3264,6 @@
   pages = {11--19},
   owner = {Alex},
   timestamp = {2013.11.10}
-}
-
-@ARTICLE{vonahn2008:gwap,
-  author = {Von Ahn, Luis and Dabbish, Laura},
-  title = {Designing Games with a Purpose},
-  journal = {Communications of the ACM},
-  year = {2008},
-  volume = {51},
-  pages = {58--67},
-  number = {8},
-  owner = {Alex},
-  publisher = {ACM},
-  timestamp = {2013.11.03}
 }
 
 @BOOK{wallace1989:creative-people,
@@ -3571,7 +3355,7 @@
   timestamp = {2013.11.10}
 }
 
-@PHDTHESIS{Wilson2012,
+@PHDTHESIS{wilson2012:gamedesign-disputation-thesis,
   author = {Wilson, D.},
   title = {Designing for the pleasures of disputation--or--How to make friends
 	by trying to kick them!},
@@ -3581,19 +3365,7 @@
   timestamp = {2013.03.07}
 }
 
-@INPROCEEDINGS{Wu1994,
-  author = {Wu, Z. and Palmer, M.},
-  title = {Verbs semantics and lexical selection},
-  booktitle = {Proc. of the 32nd Annual Meeting on Association for Computational
-	Linguistics},
-  year = {1994},
-  pages = {133--138},
-  organization = {Association for Computational Linguistics},
-  owner = {Alex},
-  timestamp = {2013.03.07}
-}
-
-@INPROCEEDINGS{Yannakakis2006,
+@INPROCEEDINGS{yannakakis2006:playground-model,
   author = {Yannakakis, G.N. and Lund, H.H. and Hallam, J.},
   title = {Modeling children's entertainment in the playware playground},
   booktitle = {2nd IEEE Symposium on Computational Intelligenceand Games},
@@ -3636,12 +3408,9 @@
   volume = {1},
   pages = {121--133},
   number = {2},
-  keywords = {adaptation,augmented-reality games,gradi-,neuro-evolution,player satisfaction,real-time,user
-	modeling},
   owner = {Alex},
   publisher = {IEEE},
-  timestamp = {2013.03.07},
-  url = {http://ieeexplore.ieee.org/xpls/abs\_all.jsp?arnumber=5067382}
+  timestamp = {2013.03.07}
 }
 
 @ARTICLE{yannakakis2009:playermodel,
@@ -3657,20 +3426,6 @@
   owner = {Alex},
   publisher = {IEEE},
   timestamp = {2013.03.16}
-}
-
-@INPROCEEDINGS{Yen2001,
-  author = {Yen, J. and Yin, J. and Ioerger, T.R. and Miller, M.S. and Xu, D.
-	and Volz, R.A. and others},
-  title = {Cast: Collaborative agents for simulating teamwork},
-  booktitle = {Intl. Joint Conf. on Artif. Intel.},
-  year = {2001},
-  volume = {17},
-  number = {1},
-  pages = {1135--1144},
-  organization = {Lawrence Erlbaum Associates, Ltd.},
-  owner = {Alex},
-  timestamp = {2013.03.07}
 }
 
 @TECHREPORT{younes2004:ppddl,
@@ -3730,18 +3485,6 @@
   organization = {ACM},
   owner = {Alex},
   timestamp = {2013.11.10}
-}
-
-@ARTICLE{Zadeh1965,
-  author = {Zadeh, LA},
-  title = {Fuzzy sets},
-  journal = {Information and Control},
-  year = {1965},
-  volume = {8},
-  pages = {338--353},
-  number = {3},
-  owner = {Alex},
-  timestamp = {2013.03.07}
 }
 
 @INPROCEEDINGS{zagal2008:game-ontology,
