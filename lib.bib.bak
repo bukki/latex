@@ -463,6 +463,26 @@
   timestamp = {2013.11.10}
 }
 
+@INPROCEEDINGS{colton2001:meta-theory,
+  author = {Colton, Simon},
+  title = {Experiments in meta-theory formation},
+  booktitle = {Symposium on Artificial Intelligence and Creativity in Arts and Science},
+  year = {2001},
+  owner = {Alex},
+  timestamp = {2014.02.18}
+}
+
+@ARTICLE{colton2006:ilp-hr,
+  author = {Colton, Simon and Muggleton, Stephen},
+  title = {Mathematical applications of inductive logic programming},
+  journal = {Machine Learning},
+  year = {2006},
+  volume = {64},
+  pages = {25--64},
+  owner = {Alex},
+  timestamp = {2014.02.18}
+}
+
 @INPROCEEDINGS{colton2011:face,
   author = {Colton, Simon and Pease, A and Charnley, J},
   title = {Computational creativity theory: The {FACE} and {IDEA} descriptive
@@ -627,6 +647,33 @@
   timestamp = {2013.05.11}
 }
 
+@BOOK{deraedt1992:clint,
+  title = {Interactive Theory Revision: An Inductive Logic Programming Approach},
+  publisher = {Academic Press},
+  year = {1992},
+  author = {De Raedt, Luc},
+  owner = {Alex},
+  timestamp = {2014.02.18}
+}
+
+@INPROCEEDINGS{deraedt1993:claudien,
+  author = {De Raedt, Luc and Bruynooghe, Maurice},
+  title = {A theory of clausal discovery},
+  booktitle = {International Joint Conference on Artificial Intelligence},
+  year = {1993},
+  owner = {Alex},
+  timestamp = {2014.02.18}
+}
+
+@INPROCEEDINGS{deraedt1993:ilp-nonmonotonic,
+  author = {De Raedt, Luc and Lavra\v{c}, Nada},
+  title = {The many faces of inductive logic programming},
+  booktitle = {International Symposium on Methodologies for Intelligent Systems},
+  year = {1993},
+  owner = {Alex},
+  timestamp = {2014.02.18}
+}
+
 @ARTICLE{desmarais2012:edm-review,
   author = {Desmarais, Michel C. and Baker, Ryan S. J. D.},
   title = {A review of recent advances in learner and skill modeling in intelligent
@@ -777,6 +824,15 @@
   owner = {Alex},
   publisher = {Elsevier},
   timestamp = {2014.01.22}
+}
+
+@INPROCEEDINGS{flach1993:ilp-db,
+  author = {Flach, Peter A},
+  title = {Predicate invention in inductive data engineering},
+  booktitle = {European Conference on Machine Learning},
+  year = {1993},
+  owner = {Alex},
+  timestamp = {2014.02.18}
 }
 
 @INPROCEEDINGS{font2013:card-game-gen,
@@ -1511,6 +1567,16 @@
   timestamp = {2013.11.17}
 }
 
+@BOOK{lavrac1994:ilp-book,
+  title = {Inductive Logic Programming: Techniques and Applications},
+  publisher = {Ellis Horwood},
+  year = {1994},
+  author = {Lavra\v{c}, Nada and D\v{z}eroski, Sa\v{s}o},
+  address = {New York, NY},
+  owner = {Alex},
+  timestamp = {2014.02.18}
+}
+
 @INPROCEEDINGS{law2008:accuracy-problem,
   author = {Law, Edith},
   title = {The problem of accuracy as an evaluation criterion},
@@ -1968,6 +2034,61 @@
   pages = {119},
   owner = {Alex},
   timestamp = {2013.11.10}
+}
+
+@ARTICLE{muggleton1995:progol,
+  author = {Muggleton, Stephen},
+  title = {Inverse entailment and Progol},
+  journal = {New Generation Computing},
+  year = {1995},
+  volume = {13},
+  pages = {245--286},
+  number = {13},
+  owner = {Alex},
+  timestamp = {2014.02.18}
+}
+
+@ARTICLE{muggleton1992:cigol,
+  author = {Muggleton, Stephen and Buntine, Wray},
+  title = {Machine invention of first-order predicates by inverting resolution},
+  journal = {Inductive Logic Programming},
+  year = {1992},
+  pages = {261--280},
+  owner = {Alex},
+  timestamp = {2014.02.18}
+}
+
+@ARTICLE{muggleton1994:ilp-theory,
+  author = {Muggleton, Stephen and De Raedt, Luc},
+  title = {Inductive logic programming: Theory and methods},
+  journal = {The Journal of Logic Programming},
+  year = {1994},
+  volume = {19},
+  pages = {629--679},
+  owner = {Alex},
+  timestamp = {2014.02.18}
+}
+
+@ARTICLE{muggleton2012:ilp-20,
+  author = {Muggleton, Stephen and De Raedt, Luc and Poole, David and Bratko,
+	Ivan and Flach, Peter and Inoue, Katsumi and Srinivasan, Ashwin},
+  title = {ILP turns 20: Biography and future challenges},
+  journal = {Machine Learning},
+  year = {2012},
+  volume = {86},
+  pages = {3--23},
+  owner = {Alex},
+  timestamp = {2014.02.18}
+}
+
+@INPROCEEDINGS{muggleton1990:golem,
+  author = {Muggleton, Stephen and Feng, Cao},
+  title = {Efficient induction of logic programs},
+  booktitle = {International Workshop on Algorithmic Learning Theory},
+  year = {1990},
+  journal = {Inductive Logic Programming},
+  owner = {Alex},
+  timestamp = {2014.02.18}
 }
 
 @INPROCEEDINGS{neil2012:time-evaluate,
@@ -2687,6 +2808,15 @@
   owner = {alexzook},
   review = {personalized levels using preference learning models (MLPs)},
   timestamp = {2013.03.17}
+}
+
+@BOOK{shapiro1983:mis,
+  title = {Algorithmic program debugging},
+  publisher = {MIT Press},
+  year = {1983},
+  author = {Shapiro, Ehud Y},
+  owner = {Alex},
+  timestamp = {2014.02.18}
 }
 
 @INPROCEEDINGS{sharma2007:pm-eval,
