@@ -1146,21 +1146,11 @@
   timestamp = {2013.11.10}
 }
 
-@INPROCEEDINGS{harrison2013:scrabble,
+@INPROCEEDINGS{harrison2013:scrabble-retention,
   author = {Harrison, Brent and Roberts, David L},
   title = {Analytics-driven dynamic game adaption for player retention in {S}crabble},
   booktitle = {IEEE Conference on Computational Intelligence in Games},
   year = {2013},
-  owner = {Alex},
-  timestamp = {2014.02.20}
-}
-
-@INPROCEEDINGS{harrison2013:scrabble-retention,
-  author = {Harrison, Brent and Roberts, David L},
-  title = {Analytics-driven dynamic game adaption for player retention in Scrabble},
-  booktitle = {IEEE Conference on Computational Intelligence in Games},
-  year = {2013},
-  pages = {1--8},
   organization = {IEEE},
   owner = {Alex},
   timestamp = {2013.10.28}
