@@ -3171,6 +3171,16 @@
   timestamp = {2013.03.17}
 }
 
+@INPROCEEDINGS{song2013:hierarchical-tf,
+  author = {Song, Le and Ishteva, Mariya and Parikh, Ankur and Xing, Eric and
+	Park, Haesun},
+  title = {Hierarchical tensor decomposition of latent tree graphical models},
+  booktitle = {30th International Conference on Machine Learning},
+  year = {2013},
+  owner = {zook},
+  timestamp = {2014.03.26}
+}
+
 @ARTICLE{sorenson2011:challenge-model,
   author = {Sorenson, Nathan and Pasquier, Philippe and DiPaola, S.},
   title = {A Generic Approach to Challenge Modeling for the Procedural Creation
