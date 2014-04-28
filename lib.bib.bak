@@ -1000,6 +1000,17 @@
   timestamp = {2013.11.10}
 }
 
+@INCOLLECTION{gebser2010:coala-asp,
+  author = {Gebser, Martin and Grote, Torsten and Schaub, Torsten},
+  title = {Coala: a compiler from action languages to {ASP}},
+  booktitle = {Logics in Artificial Intelligence},
+  publisher = {Springer},
+  year = {2010},
+  pages = {360--364},
+  owner = {zook},
+  timestamp = {2014.04.13}
+}
+
 @BOOK{gee2007:game-learning,
   title = {Good Video Games Plus Good Learning},
   publisher = {Peter Lang},
@@ -1788,6 +1799,16 @@
   volume = {to appear},
   owner = {Alex},
   timestamp = {2013.11.17}
+}
+
+@INPROCEEDINGS{liu2011:playtracer,
+  author = {Liu, Yun-En and Andersen, Erik and Snider, Richard and Cooper, Seth
+	and Popovi\'c, Zoran},
+  title = {Feature-based projections for effective playtrace analysis},
+  booktitle = {6th International Conference on Foundations of Digital Games},
+  year = {2011},
+  owner = {zook},
+  timestamp = {2014.04.28}
 }
 
 @PHDTHESIS{lizotte2008:bayes-opt,
