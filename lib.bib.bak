@@ -3004,16 +3004,6 @@
   timestamp = {2013.05.11}
 }
 
-@INPROCEEDINGS{siu2014:collab-compete,
-  author = {Siu, Kristin and Zook, Alexander and Riedl, Mark O},
-  title = {Collaboration versus Competition: Design and Evaluation of Mechanics
-	for Games with a Purpose},
-  booktitle = {9th International Conference on the Foundations of Digital Games},
-  year = {2014},
-  owner = {Alex},
-  timestamp = {2014.02.10}
-}
-
 @INPROCEEDINGS{siu2014:gwap,
   author = {Siu, Kristen and Zook, Alexander and Riedl, Mark O.},
   title = {Collaboration versus Competition: Design and Evaluation of Mechanics
@@ -3868,6 +3858,15 @@
   year = {2014},
   owner = {zook},
   timestamp = {2014.03.02}
+}
+
+@INPROCEEDINGS{zook2014:mech-gen-aaai,
+  author = {Zook, Alexander and Riedl, Mark O.},
+  title = {Automatic Game Design via Mechanic Generation},
+  booktitle = {Proceedings of the 28th AAAI Conference on Artificial Intelligence},
+  year = {2014},
+  owner = {alexzook},
+  timestamp = {2014.10.13}
 }
 
 @INPROCEEDINGS{zook2012:tf,
