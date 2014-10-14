@@ -3851,6 +3851,16 @@
   timestamp = {2013.03.07}
 }
 
+@ARTICLE{zook2014:gametailor,
+  author = {Zook, Alexander and Riedl, Mark O.},
+  title = {Temporal Game Challenge Tailoring},
+  journal = {IEEE Transactions on Computational Intelligence and Artificial Intelligence
+	in Games},
+  year = {forthcoming},
+  owner = {alexzook},
+  timestamp = {2014.10.13}
+}
+
 @INPROCEEDINGS{zook2014:mech-gen,
   author = {Zook, Alexander and Riedl, Mark O.},
   title = {Generating and Adapting Game Mechanics},
@@ -3867,6 +3877,16 @@
   year = {2014},
   owner = {alexzook},
   timestamp = {2014.10.13}
+}
+
+@INPROCEEDINGS{zook2013:ggj,
+  author = {Zook, Alexander and Riedl, Mark O.},
+  title = {Game Conceptualization and Development Processes in the Global Game
+	Jam},
+  booktitle = {Workshop on the Global Game Jam},
+  year = {2013},
+  owner = {alexzook},
+  timestamp = {2014.10.14}
 }
 
 @INPROCEEDINGS{zook2012:tf,
