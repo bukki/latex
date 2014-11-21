@@ -649,6 +649,17 @@
   timestamp = {2014.02.19}
 }
 
+@INPROCEEDINGS{davis2013:eval-novice-cst,
+  author = {Davis, Nicholas and Zook, Alexander and Kirschner, Friedrich and
+	Nitsche, Michael and Riedl, Mark O.},
+  title = {Techniques for Evaluating Novice-Oriented Creativity Support Tools},
+  booktitle = {ACM SIGCHI Workshop on Evaluation Methods for Creativity Support
+	Environments},
+  year = {2013},
+  owner = {alexzook},
+  timestamp = {2014.11.20}
+}
+
 @INPROCEEDINGS{davis2013:novice-creativity-film,
   author = {Davis, Nicholas and Zook, Alexander and O'Neill, Brian and Grosz,
 	Ashton and Nitsche, Michael and Riedl, Mark O.},
@@ -2289,17 +2300,6 @@
   author = {Newell, Allen and Shaw, JC and Simon, Herbert A},
   owner = {Alex},
   timestamp = {2013.11.13}
-}
-
-@INPROCEEDINGS{davis2013:eval-novice-cst,
-  author = {Nicholas Davis, Alexander Zook, Friedrich Kirschner, Michael Nitsche,
-	and Mark Riedl. . , Paris, France, 2013},
-  title = {Techniques for Evaluating Novice-Oriented Creativity Support Tools},
-  booktitle = {ACM SIGCHI Workshop on Evaluation Methods for Creativity Support
-	Environments},
-  year = {2013},
-  owner = {alexzook},
-  timestamp = {2014.11.20}
 }
 
 @INPROCEEDINGS{normoyle2012:al-metrics,
