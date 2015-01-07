@@ -69,6 +69,16 @@
   timestamp = {2013.03.17}
 }
 
+@INPROCEEDINGS{andersen2010:state-projection,
+  author = {Andersen, Erik and Liu, Yun-En and Apter, Ethan and Boucher-Genesse,
+	Fran{\c{c}}ois and Popovi{\'c}, Zoran},
+  title = {Gameplay analysis through state projection},
+  booktitle = {5th International Conference on the Foundations of Digital Games},
+  year = {2010},
+  owner = {alexzook},
+  timestamp = {2015.01.06}
+}
+
 @BOOK{anderson1993:rules-mind,
   title = {Rules of the Mind},
   publisher = {Lawrence Erlbaum},
@@ -186,6 +196,15 @@
   owner = {alexzook},
   publisher = {IEEE},
   timestamp = {2013.03.18}
+}
+
+@INPROCEEDINGS{benbassat2013:mcts-evol,
+  author = {Benbassat, Amit and Sipper, Moshe},
+  title = {{EvoMCTS}: Enhancing {MCTS}-based players through genetic programming},
+  booktitle = {IEEE Conference on Computational Intelligence in Games},
+  year = {2013},
+  owner = {alexzook},
+  timestamp = {2015.01.06}
 }
 
 @INPROCEEDINGS{bhat2007:ttd-mdp-alg,
@@ -324,6 +343,19 @@
   pages = {1-16},
   owner = {Alex},
   timestamp = {2013.03.07}
+}
+
+@ARTICLE{browne2012:mcts-survey,
+  author = {Browne, Cameron B and Powley, Edward and Whitehouse, Daniel and Lucas,
+	Simon M and Cowling, Peter I and Rohlfshagen, Philipp and Tavener,
+	Stephen and Perez, Diego and Samothrakis, Spyridon and Colton, Simon},
+  title = {A survey of monte carlo tree search methods},
+  journal = {IEEE Trans. Computational Intelligence and AI in Games},
+  year = {2012},
+  volume = {4},
+  pages = {1--43},
+  owner = {alexzook},
+  timestamp = {2015.01.06}
 }
 
 @ELECTRONIC{bura2005:game-diagram,
@@ -607,6 +639,29 @@
   timestamp = {2013.11.17}
 }
 
+@ARTICLE{cowling2012:info-set-mcts,
+  author = {Cowling, Peter I and Powley, Edward J and Whitehouse, Daniel},
+  title = {Information {S}et {M}onte {C}arlo {T}ree {S}earch},
+  journal = {IEEE Trans. Computational Intelligence and AI in Games},
+  year = {2012},
+  volume = {4},
+  pages = {120--143},
+  owner = {alexzook},
+  timestamp = {2015.01.06}
+}
+
+@ARTICLE{cowling2012:mcts-magic-imperfect,
+  author = {Cowling, Peter I and Ward, Colin D and Powley, Edward J},
+  title = {Ensemble determinization in {M}onte {C}arlo {T}ree {S}earch for the
+	imperfect information card game {M}agic: {T}he {G}athering},
+  journal = {IEEE Trans. Computational Intelligence and AI in Games},
+  year = {2012},
+  volume = {4},
+  pages = {241--257},
+  owner = {alexzook},
+  timestamp = {2015.01.06}
+}
+
 @INPROCEEDINGS{crawford2008:deikto,
   author = {Crawford, Chris},
   title = {Deikto: an application of the weak sapir-whorf hypothesis},
@@ -757,6 +812,18 @@
   timestamp = {2013.06.29}
 }
 
+@ARTICLE{disalvo2011:glitch-values,
+  author = {DiSalvo, Betsy and Bruckman, Amy},
+  title = {From interests to values},
+  journal = {Communications of the ACM},
+  year = {2011},
+  volume = {54},
+  pages = {27--29},
+  number = {8},
+  owner = {alexzook},
+  timestamp = {2014.12.11}
+}
+
 @INPROCEEDINGS{dominguez2014:asym-avatar-color,
   author = {Dom\'inguez, Ignacio X and Roberts, David L.},
   title = {Asymmetric Virtual Environments: Exploring the Effects of Avatar
@@ -838,6 +905,27 @@
   year = {2009},
   owner = {alexzook},
   timestamp = {2013.03.20}
+}
+
+@INPROCEEDINGS{drachen2009:tombraider,
+  author = {Drachen, Anders and Canossa, Alessandro and Yannakakis, Georgios
+	N},
+  title = {Player modeling using self-organization in {Tomb Raider: Underworld}},
+  booktitle = {IEEE Conference on Computational Intelligence and Games},
+  year = {2009},
+  owner = {alexzook},
+  timestamp = {2015.01.06}
+}
+
+@INPROCEEDINGS{duvenaud2013:gp-discovery,
+  author = {Duvenaud, David and Lloyd, James Robert and Grosse, Roger and Tenenbaum,
+	Joshua B. and Ghahramani, Zoubin},
+  title = {Structure Discovery in Nonparametric Regression through Compositional
+	Kernel Search},
+  booktitle = {International Conference on Machine Learning},
+  year = {2013},
+  owner = {alexzook},
+  timestamp = {2015.01.06}
 }
 
 @BOOK{elias2012:characteristics-games,
@@ -1187,6 +1275,16 @@
   timestamp = {2013.05.11}
 }
 
+@INPROCEEDINGS{grosse2012:unsupervised-discovery,
+  author = {Grosse, Roger B. and Salakhutdinov, R. and Freeman, W.T. and Tenenbaum,
+	J.B.},
+  title = {Exploiting compositionality to explore a large space of model structures},
+  booktitle = {Uncertainty in Artificial Intelligence},
+  year = {2012},
+  owner = {alexzook},
+  timestamp = {2015.01.06}
+}
+
 @INPROCEEDINGS{gustafsson2006:backseatplayground,
   author = {Gustafsson, Anton and Bichard, John and Brunnberg, Liselott and Juhlin,
 	Oskar and Combetto, Marco},
@@ -1459,6 +1557,15 @@
   timestamp = {2014.11.21}
 }
 
+@INPROCEEDINGS{jacobsen2014:mcts-mario,
+  author = {Jacobsen, Emil Juul and Greve, Rasmus and Togelius, Julian},
+  title = {Monte {M}ario: Platforming with {MCTS}},
+  booktitle = {Genetic and Evolutionary Computation},
+  year = {2014},
+  owner = {alexzook},
+  timestamp = {2015.01.06}
+}
+
 @INPROCEEDINGS{jaffe2012:balance,
   author = {Jaffe, Alexander and Miller, Alex and Andersen, Erik and Liu, Yun-En
 	and Karlin, Anna and Popovi\'c, Zoran},
@@ -1519,6 +1626,20 @@
   year = {2013},
   owner = {alexzook},
   timestamp = {2013.03.17}
+}
+
+@ARTICLE{king2004:robot-science,
+  author = {King, Ross D and Whelan, Kenneth E and Jones, Ffion M and Reiser,
+	Philip GK and Bryant, Christopher H and Muggleton, Stephen H and
+	Kell, Douglas B and Oliver, Stephen G},
+  title = {Functional genomic hypothesis generation and experimentation by a
+	robot scientist},
+  journal = {Nature},
+  year = {2004},
+  volume = {427},
+  pages = {247--252},
+  owner = {alexzook},
+  timestamp = {2014.12.31}
 }
 
 @ARTICLE{kolda2009:tensor,
@@ -1883,9 +2004,21 @@
   title = {Procedural Generation of Dungeons},
   journal = {IEEE Trans. Computational Intelligence and AI in Games},
   year = {2013},
-  volume = {to appear},
+  volume = {6},
+  pages = {78--89},
   owner = {Alex},
   timestamp = {2013.11.17}
+}
+
+@INPROCEEDINGS{linehan2014:puzzle-pace,
+  author = {Linehan, Conor and Bellord, George and Kirman, Ben and Morford, Zachary
+	H. and Roche, Bryan},
+  title = {Learning Curves: Analysing Pace and Challenge in Four Successful
+	Puzzle Games},
+  booktitle = {CHI PLAY},
+  year = {2014},
+  owner = {alexzook},
+  timestamp = {2015.01.06}
 }
 
 @INPROCEEDINGS{liu2011:playtracer,
@@ -1916,6 +2049,17 @@
   year = {2014},
   owner = {alexzook},
   timestamp = {2014.11.26}
+}
+
+@INPROCEEDINGS{lloyd2014:autostat-language,
+  author = {Lloyd, James Robert and Duvenaud, David and Grosse, Roger and Tenenbaum,
+	Joshua B. and Ghahramani, Zoubin},
+  title = {"Automatic Construction and {Natural-Language} Description of Nonparametric
+	Regression Models"},
+  booktitle = {Association for the Advancement of Artificial Intelligence},
+  year = {2014},
+  owner = {alexzook},
+  timestamp = {2014.12.31}
 }
 
 @INPROCEEDINGS{lomas2013:opt-edugame-challenge,
@@ -2453,6 +2597,17 @@
   year = {2014},
   owner = {alexzook},
   timestamp = {2014.10.26}
+}
+
+@INPROCEEDINGS{osborn2014:trace-eval,
+  author = {Osborn, Joseph C and Samuel, Ben and McCoy, Joshua Allen and Mateas,
+	Michael},
+  title = {Evaluating Play Trace (Dis)similarity Metrics},
+  booktitle = {10th AAAI Conference on Artificial Intelligence and Interactive Digital
+	Entertainment},
+  year = {2014},
+  owner = {alexzook},
+  timestamp = {2015.01.06}
 }
 
 @INPROCEEDINGS{pantaleev2012:rpg-class,
@@ -3149,6 +3304,16 @@
   timestamp = {2013.11.17}
 }
 
+@INPROCEEDINGS{sifa2013:tombraider-evol,
+  author = {Sifa, Rafet and Drachen, Anders and Bauckhage, Christian and Thurau,
+	Christian and Canossa, Alessandro},
+  title = {Behavior evolution in {Tomb Raider: Underworld}},
+  booktitle = {IEEE Conference on Computational Intelligence and Games},
+  year = {2013},
+  owner = {alexzook},
+  timestamp = {2015.01.06}
+}
+
 @INPROCEEDINGS{silver2013:lifelong-ml,
   author = {Silver, Daniel L and Yang, Qiang and Li, Lianghao},
   title = {Lifelong Machine Learning Systems: Beyond Learning Algorithms},
@@ -3783,6 +3948,15 @@
   owner = {Alex},
   review = {visualization of gameplay data for analysis, not players or in-game},
   timestamp = {2013.05.11}
+}
+
+@INPROCEEDINGS{ward2009:mcts-magic-card,
+  author = {Ward, Colin D and Cowling, Peter I},
+  title = {Monte {C}arlo search applied to card selection in {Magic: The Gathering}},
+  booktitle = {IEEE Conference on Computational Intelligence and Games},
+  year = {2009},
+  owner = {alexzook},
+  timestamp = {2015.01.06}
 }
 
 @BOOK{wardrip-fruin2009:book,
