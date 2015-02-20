@@ -560,7 +560,7 @@
   year = {2007},
   title = {The Chemistry of Game Design},
   language = {English},
-  howpublished = {website},
+  howpublished = {http:\\/},
   organization = {UBM Tech},
   url = {http://www.gamasutra.com/view/feature/1524/the_chemistry_of_game_design.php},
   owner = {Alex},
@@ -4133,7 +4133,8 @@
 	of Plot Points},
   journal = {IEEE Trans. Computational Intelligence and AI in Games},
   year = {2013},
-  volume = {forthcoming},
+  volume = {6},
+  pages = {174--187},
   owner = {Alex},
   publisher = {IEEE},
   timestamp = {2013.10.28}
