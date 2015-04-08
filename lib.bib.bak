@@ -761,8 +761,8 @@
 @INPROCEEDINGS{cook2012:aesthetics-platformer,
   author = {Cook, Michael and Colton, Simon and Pease, Alison},
   title = {Aesthetic Considerations for Automated Platformer Design.},
-  booktitle = {Proceedings of the Eighth Conference on Artificial Intelligence and
-	Interactive Digital Entertainment},
+  booktitle = {8th AAAI Conference on Artificial Intelligence and Interactive Digital
+	Entertainment},
   year = {2012},
   owner = {Alex},
   timestamp = {2013.11.10}
