@@ -154,6 +154,17 @@
   timestamp = {2013.11.17}
 }
 
+@INCOLLECTION{ashlock2015:pcg-book-sb-rep,
+  author = {Ashlock, Dan and Risi, Sebastian and Togelius, Julian},
+  title = {Representations for search-based methods},
+  booktitle = {Procedural Content Generation in Games: A Textbook and an Overview
+	of Current Research},
+  publisher = {Springer},
+  year = {2015},
+  owner = {alexzook},
+  timestamp = {2015.04.13}
+}
+
 @ARTICLE{bakkes2012:playermodel,
   author = {Sander C.J. Bakkes and Pieter H.M. Spronck and Giel van Lankveld},
   title = {Player behavioural modelling for video games},
@@ -585,6 +596,18 @@
   pages = {20--23},
   owner = {Alex},
   timestamp = {2013.11.10}
+}
+
+@INCOLLECTION{cheong2015:pcg-book-planning-quests,
+  author = {Cheong, Yun-Gyung and Riedl, M. O. and Bae, Byung-Chull and Nelson,
+	Mark J.},
+  title = {Planning with applications to quests and story},
+  booktitle = {Procedural Content Generation in Games: A Textbook and an Overview
+	of Current Research},
+  publisher = {Springer},
+  year = {2015},
+  owner = {alexzook},
+  timestamp = {2015.04.13}
 }
 
 @ARTICLE{chong2007:ica-review,
@@ -1611,7 +1634,7 @@
   author = {Ho, Chien-Ju and Chang, Tao-Hsuan and Lee, Jong-Chuan and Hsu, Jane
 	Yung-jen and Chen, Kuan-Ta},
   title = {KissKissBan: A Competitive Human Computation Game for Image Annotation},
-  booktitle = {Proceedings of the ACM SIGKDD Workshop on Human Computation},
+  booktitle = {ACM SIGKDD Workshop on Human Computation},
   year = {2009},
   series = {HCOMP '09},
   owner = {kasiu},
@@ -2172,6 +2195,17 @@
   timestamp = {2015.03.05}
 }
 
+@INPROCEEDINGS{lankes2014:player-gaze,
+  author = {Lankes, Michael and Mirlacher, Thomas and Wagner, Stefan and Hochleitner,
+	Wolfgang},
+  title = {Whom are you looking for?: The Effects of Different Player Representation
+	Relations on the Presence in Gaze-Based Games},
+  booktitle = {ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play},
+  year = {2014},
+  owner = {alexzook},
+  timestamp = {2015.04.08}
+}
+
 @INPROCEEDINGS{lankveld2011:personality,
   author = {van Lankveld, Giel and Spronck, Pieter and van den Herik, Jaap and
 	Arntz, Arnoud},
@@ -2370,6 +2404,17 @@
   journal = {Proceedings of the IEEE},
   owner = {Alex},
   timestamp = {2013.10.28}
+}
+
+@INCOLLECTION{liapis2015:pcg-book-mixed-init,
+  author = {Liapis, Antonios and Smith, Gillian and Shaker, Noor},
+  title = {Mixed-initiative approaches},
+  booktitle = {Procedural Content Generation in Games: A Textbook and an Overview
+	of Current Research},
+  publisher = {Springer},
+  year = {2015},
+  owner = {alexzook},
+  timestamp = {2015.04.13}
 }
 
 @INPROCEEDINGS{liapis2013:sentient-sketchbook,
@@ -2786,6 +2831,16 @@
   timestamp = {2014.01.22}
 }
 
+@INPROCEEDINGS{mcewan2014:natural-mapping,
+  author = {McEwan, Mitchell and Blackler, Alethea and Johnson, Daniel and Wyeth,
+	Peta},
+  title = {Natural Mapping and Intuitive Interaction in Videogames},
+  booktitle = {ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play},
+  year = {2014},
+  owner = {alexzook},
+  timestamp = {2015.04.08}
+}
+
 @BOOK{mcgonigal2011:realitybroken,
   title = {Reality Is Broken: Why Games Make Us Better and How They Can Change
 	the World},
@@ -3008,6 +3063,29 @@
   timestamp = {2013.03.17}
 }
 
+@INCOLLECTION{nelson2015:pcg-book-asp,
+  author = {Nelson, Mark J. and Smith, Adam M.},
+  title = {{ASP} with applications to mazes and levels},
+  booktitle = {Procedural Content Generation in Games: A Textbook and an Overview
+	of Current Research},
+  publisher = {Springer},
+  year = {2015},
+  owner = {alexzook},
+  timestamp = {2015.04.13}
+}
+
+@INCOLLECTION{nelson2015:pcg-book-rules-mechanics,
+  author = {Nelson, Mark J. and Togelius, Julian and Browne, Cameron and Cook,
+	Michael},
+  title = {Rules and mechanics},
+  booktitle = {Procedural Content Generation in Games: A Textbook and an Overview
+	of Current Research},
+  publisher = {Springer},
+  year = {2015},
+  owner = {alexzook},
+  timestamp = {2015.04.13}
+}
+
 @INPROCEEDINGS{nelson2005:dm,
   author = {Nelson, M.J. Mark and Mateas, Michael},
   title = {Search-based drama management in the interactive fiction Anchorhead},
@@ -3025,6 +3103,18 @@
   author = {Newell, Allen and Shaw, JC and Simon, Herbert A},
   owner = {Alex},
   timestamp = {2013.11.13}
+}
+
+@INCOLLECTION{nielsen2015:gvg-eval,
+  author = {Nielsen, Thorbj{\o}rn S and Barros, Gabriella AB and Togelius, Julian
+	and Nelson, Mark J},
+  title = {General Video Game Evaluation Using Relative Algorithm Performance
+	Profiles},
+  booktitle = {Applications of Evolutionary Computation},
+  publisher = {Springer},
+  year = {2015},
+  owner = {alexzook},
+  timestamp = {2015.04.13}
 }
 
 @INPROCEEDINGS{normoyle2012:al-metrics,
@@ -3235,6 +3325,18 @@
   year = {2015},
   owner = {zook},
   timestamp = {2015.03.08}
+}
+
+@ARTICLE{perez2013:map-gen-physical-travelling-salesman,
+  author = {Perez, Diego and Togelius, Julian and Samothrakis, Spyridon and Rolhfshagen,
+	Philipp and Lucas, Simon M.},
+  title = {Automated Map Generation for the Physical Travelling Salesman Problem},
+  journal = {IEEE Trans. Computational Intelligence and AI in Games},
+  year = {2013},
+  volume = {18},
+  pages = {708--720},
+  owner = {alexzook},
+  timestamp = {2015.04.13}
 }
 
 @ARTICLE{phua2010:fraud-detection-review,
@@ -3729,6 +3831,29 @@
   timestamp = {2013.10.25}
 }
 
+@INCOLLECTION{shaker2015:pcg-book-constructive-dungeon,
+  author = {Shaker, Noor and Liapis, Antonios and Togelius, Julian and Lopes,
+	Ricardo and Bidarra, Rafael},
+  title = {Constructive generation methods for dungeons and levels},
+  booktitle = {Procedural Content Generation in Games: A Textbook and an Overview
+	of Current Research},
+  publisher = {Springer},
+  year = {2015},
+  owner = {alexzook},
+  timestamp = {2015.04.13}
+}
+
+@INCOLLECTION{shaker2015:pcg-book-fractals,
+  author = {Shaker, Noor and Nelson, Mark J. and Togelius, Julian},
+  title = {Fractals, noise and agents with applications to landscapes},
+  booktitle = {Procedural Content Generation in Games: A Textbook and an Overview
+	of Current Research},
+  publisher = {Springer},
+  year = {2015},
+  owner = {alexzook},
+  timestamp = {2015.04.13}
+}
+
 @INPROCEEDINGS{shaker2012:gram-evol,
   author = {Shaker, Noor and Nicolau, Miguel and Yannakakis, G and Togelius,
 	Julian and O'Neill, Michael},
@@ -3738,6 +3863,38 @@
   journal = {IEEE Transactions on Computational Intelligence and Games (CIG)},
   owner = {alexzook},
   timestamp = {2013.03.18}
+}
+
+@INCOLLECTION{shaker2015:pcg-book-evaluation,
+  author = {Shaker, Noor and Smith, Gillian and Yannakakis, Georgios N.},
+  title = {Evaluating content generators},
+  booktitle = {Procedural Content Generation in Games: A Textbook and an Overview
+	of Current Research},
+  publisher = {Springer},
+  year = {2015},
+  owner = {alexzook},
+  timestamp = {2015.04.13}
+}
+
+@BOOK{shaker2015:pcg-book,
+  title = {Procedural Content Generation in Games: A Textbook and an Overview
+	of Current Research},
+  publisher = {Springer},
+  year = {2015},
+  author = {Shaker, Noor and Togelius, Julian and Nelson, Mark J.},
+  owner = {alexzook},
+  timestamp = {2015.04.13}
+}
+
+@INCOLLECTION{shaker2015:pcg-book-edpcg,
+  author = {Shaker, Noor and Togelius, Julian and Yannakakis, Georgios N.},
+  title = {The experience-driven perspective},
+  booktitle = {Procedural Content Generation in Games: A Textbook and an Overview
+	of Current Research},
+  publisher = {Springer},
+  year = {2015},
+  owner = {alexzook},
+  timestamp = {2015.04.13}
 }
 
 @INPROCEEDINGS{shaker2011:featureanalysis,
@@ -3769,6 +3926,15 @@
   owner = {alexzook},
   review = {personalized levels using preference learning models (MLPs)},
   timestamp = {2013.03.17}
+}
+
+@INPROCEEDINGS{shannon2013:tutorial-practices,
+  author = {Shannon, Amy and Boyce, Acey and Gadwal, Chitra and Barnes, Tiffany},
+  title = {Effective Practices in Game Tutorial Systems},
+  booktitle = {8th International Conference on the Foundations of Digital Games},
+  year = {2013},
+  owner = {alexzook},
+  timestamp = {2015.04.08}
 }
 
 @BOOK{shapiro1983:mis,
@@ -4339,6 +4505,17 @@
   timestamp = {2014.03.12}
 }
 
+@INCOLLECTION{togelius2015:pcg-book-introduction,
+  author = {Togelius, Julian and Nelson, Mark J. and Shaker, Noor},
+  title = {Introduction},
+  booktitle = {Procedural Content Generation in Games: A Textbook and an Overview
+	of Current Research},
+  publisher = {Springer},
+  year = {2015},
+  owner = {alexzook},
+  timestamp = {2015.04.13}
+}
+
 @INPROCEEDINGS{togelius2008:gamegen,
   author = {Togelius, Julian and Schmidhuber, J{\"u}rgen},
   title = {An experiment in automatic game design},
@@ -4346,6 +4523,28 @@
   year = {2008},
   owner = {alexzook},
   timestamp = {2013.03.17}
+}
+
+@INCOLLECTION{togelius2015:pcg-book-sbpcg,
+  author = {Togelius, Julian and Shaker, Noor},
+  title = {The search-based approach},
+  booktitle = {Procedural Content Generation in Games: A Textbook and an Overview
+	of Current Research},
+  publisher = {Springer},
+  year = {2015},
+  owner = {alexzook},
+  timestamp = {2015.04.13}
+}
+
+@INCOLLECTION{togelius2015:pcg-book-grammars,
+  author = {Togelius, Julian and Shaker, Noor and Dormans, Joris},
+  title = {Grammars and L-systems with applications to vegetation and levels},
+  booktitle = {Procedural Content Generation in Games: A Textbook and an Overview
+	of Current Research},
+  publisher = {Springer},
+  year = {2015},
+  owner = {alexzook},
+  timestamp = {2015.04.13}
 }
 
 @ARTICLE{togelius2011:sbpcg,
@@ -4582,7 +4781,7 @@
 
 @ARTICLE{wallner2013:gameplay-viz-analysis,
   author = {G. Wallner and S. Kriglstein},
-  title = {Visualization-based analysis of gameplay data – A review of literature},
+  title = {Visualization-based analysis of gameplay data -- A review of literature},
   journal = {Entertainment Computing},
   year = {2013},
   volume = {4},
@@ -4643,6 +4842,17 @@
   owner = {Alex},
   publisher = {Carnegie Mellon University},
   timestamp = {2013.03.07}
+}
+
+@INPROCEEDINGS{whitlock2014:flow,
+  author = {Whitlock, Laura A. and McLaughlin, Anne Collins and Leidheiser, William
+	and Gandy, Maribeth and Allaire, Jason C.},
+  title = {Know Before you Go: Feelings of Flow for Older Players Depends on
+	Game and Player Characteristics},
+  booktitle = {ACM SIGCHI Annual Symposium on Computer-Human Interaction in Play},
+  year = {2014},
+  owner = {alexzook},
+  timestamp = {2015.04.08}
 }
 
 @INPROCEEDINGS{wiggins2012:global-workspace,
