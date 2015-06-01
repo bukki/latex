@@ -828,6 +828,26 @@
   Timestamp                = {2013.03.17}
 }
 
+@InProceedings{cook2015:contrabot-wdyd,
+  Title                    = {AI-based Games: Contrabot and What Did You Do?},
+  Author                   = {Michael Cook and Mirjam P. Eladhari and Adam M Smith and Gillian Smith and Tommy Thompson and Julian Togelius and Alex Zook},
+  Booktitle                = {10th International Conference on the Foundations of Digital Games},
+  Year                     = {2015},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.05.31}
+}
+
+@InProceedings{cook2015:hacakdemics,
+  Title                    = {Hackademics: A Case for Game James At Academic Conferences},
+  Author                   = {Michael Cook and Gillian Smith and Tommy Thompson and Julian Togelius and Alex Zook},
+  Booktitle                = {Workshop on Game Jams, Hackathons, and Game Creation Events},
+  Year                     = {2015},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.05.31}
+}
+
 @InProceedings{cooper2010:sci-disc-design,
   Title                    = {The Challenge of Designing Scientific Discovery Games},
   Author                   = {Cooper, Seth and Treuille, Adrien and Barbero, Janos and Leaver-Fay, Andrew and Tuite, Kathleen and Khatib, Firas and Snyder, Alex Cho and Beenen, Michael and Salesin, David and Baker, David and Popovi\'c, Zoran and Foldit Players},
@@ -5246,6 +5266,21 @@
   Editor                   = {Simon M. Lucas, Michael Mateas, Mike Preuss, Pieter Spronck, and Julian Togelius},
   Number                   = {1},
   Pages                    = {224--225},
+  Volume                   = {5},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.05.18}
+}
+
+@InCollection{zook2015:contrabot-dagstuhl,
+  Title                    = {Contrabot},
+  Author                   = {Alex Zook and Alex Champandard and Michael Cook and Adam M Smith and Gillian Smith and Tommy Thompson},
+  Booktitle                = {Artificial and Computational Intelligence in Games: Integration (Dagstuhl Seminar 15051)},
+  Publisher                = {Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik},
+  Year                     = {2015},
+  Editor                   = {Simon M. Lucas, Michael Mateas, Mike Preuss, Pieter Spronck, and Julian Togelius},
+  Number                   = {1},
+  Pages                    = {240--241},
   Volume                   = {5},
 
   Owner                    = {zook},
