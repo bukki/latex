@@ -5297,6 +5297,16 @@
   Timestamp                = {2014.02.10}
 }
 
+@InProceedings{zook2015:mcts-strategy,
+  Title                    = {Monte-{C}arlo Tree Search for Simulation-based Strategy Analysis},
+  Author                   = {Alexander Zook and Brent Harrison and Mark O. Riedl},
+  Booktitle                = {10th International Conference on the Foundations of Digital Games},
+  Year                     = {2015},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.07.11}
+}
+
 @InProceedings{zook2012:missiongen,
   Title                    = {Skill-based Mission Generation: A Data-driven Temporal Player Modeling Approach},
   Author                   = {Zook, Alexander and Lee-Urban, Stephen and Drinkwater, Michael R and Riedl, Mark O},
