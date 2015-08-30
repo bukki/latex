@@ -12,6 +12,16 @@
   Timestamp                = {2013.12.01}
 }
 
+@Book{adams2012:game-mech-book,
+  Title                    = {Game Mechanics: Advanced Game Design},
+  Author                   = {Adams, Ernest and Dormans, Joris},
+  Publisher                = {New Riders},
+  Year                     = {2012},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.08.30}
+}
+
 @InProceedings{ahmad2011:goldmining-hypergraph,
   Title                    = {Trust amongst rogues? A hypergraph approach for comparing clandestine trust networks in {MMOGs}},
   Author                   = {Ahmad, Muhammad Aurangzeb and Keegan, Brian and Williams, Dmitri and Srivastava, Jaideep and Contractor, Noshir},
@@ -506,6 +516,16 @@
   Timestamp                = {2013.06.02}
 }
 
+@InProceedings{butler2015:progressions,
+  Title                    = {Automatic Game Progression Design through Analysis of Solution Features},
+  Author                   = {Butler, Eric and Andersen, Erik and Smith, Adam M and Gulwani, Sumit and Popovi\'c, Zoran},
+  Booktitle                = {ACM SIGCHI Conference on Human Factors in Computing Systems},
+  Year                     = {2015},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.08.30}
+}
+
 @InProceedings{butler2015:progression-soln,
   Title                    = {Automatic Game Progression Design through Analysis of Solution Features},
   Author                   = {Butler, Eric and Andersen, Erik and Smith, Adam M. and Gulwani, Sumit and Popovi\'c, Zoran},
@@ -550,7 +570,7 @@
   Timestamp                = {2014.02.13}
 }
 
-@Article{chaloner1995,
+@Article{chaloner1995:opt-expr-design,
   Title                    = {Bayesian experimental design: A review},
   Author                   = {Chaloner, Kathryn and Verdinelli, Isabella},
   Journal                  = {Statistical Science},
@@ -709,6 +729,16 @@
   Timestamp                = {2014.02.18}
 }
 
+@InProceedings{colton2014:observer-issues,
+  Title                    = {On Acid Drops and Teardrops: Observer Issues in Computational Creativity},
+  Author                   = {Colton, Simon and Cook, Michael and Hepworth, Rose and Pease, Alison},
+  Booktitle                = {7th AISB Symposium on Computing and Philosophy},
+  Year                     = {2014},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.08.30}
+}
+
 @Article{colton2006:ilp-hr,
   Title                    = {Mathematical applications of inductive logic programming},
   Author                   = {Colton, Simon and Muggleton, Stephen},
@@ -724,7 +754,7 @@
 @InProceedings{colton2011:face,
   Title                    = {Computational creativity theory: The {FACE} and {IDEA} descriptive models},
   Author                   = {Colton, Simon and Pease, A and Charnley, J},
-  Booktitle                = {Proceedings of the Second International Conference on Computational Creativity},
+  Booktitle                = {2nd International Conference on Computational Creativity},
   Year                     = {2011},
 
   Owner                    = {Alex},
@@ -790,7 +820,7 @@
 @InProceedings{cook2013:nobody-critic,
   Title                    = {Nobody's A Critic: On The Evaluation Of Creative Code Generators--A Case Study In Videogame Design},
   Author                   = {Cook, Michael and Colton, Simon and Gow, Jeremy},
-  Booktitle                = {Proceedings of the Fourth International Conference on Computational Creativity},
+  Booktitle                = {4th International Conference on Computational Creativity},
   Year                     = {2013},
   Pages                    = {123},
 
@@ -977,6 +1007,16 @@
 
   Owner                    = {alexzook},
   Timestamp                = {2015.01.07}
+}
+
+@InProceedings{davis2011:distrib-machinima,
+  Title                    = {Distributed Creative Cognition in Digital Filmmaking},
+  Author                   = {Davis, Nicholas and Li, Boyang and O'Neill, Brian and Riedl, Mark and Nitsche, Michael},
+  Booktitle                = {8th ACM Conference on Creativity and Cognition},
+  Year                     = {2011},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.08.30}
 }
 
 @InProceedings{davis2013:eval-novice-cst,
@@ -1440,7 +1480,7 @@
 @InProceedings{gabora2012:humans-become-creative,
   Title                    = {How Did Humans Become So Creative? A Computational Approach},
   Author                   = {Gabora, Liane and Dipaola, Steve},
-  Booktitle                = {Proceedings of the Third International Conference on Computational Creativity},
+  Booktitle                = {3rd International Conference on Computational Creativity},
   Year                     = {2012},
 
   Owner                    = {Alex},
@@ -1532,7 +1572,7 @@
 @InProceedings{gervas2011:dynamic-inspiring,
   Title                    = {Dynamic inspiring sets for sustained novelty in poetry generation},
   Author                   = {Gerv{\'a}s, Pablo},
-  Booktitle                = {Proceedings of the Second International Conference on Computational Creativity},
+  Booktitle                = {2nd International Conference on Computational Creativity},
   Year                     = {2011},
   Pages                    = {111--116},
 
@@ -2083,6 +2123,17 @@
   Timestamp                = {2014.12.31}
 }
 
+@InCollection{klint2013:micro-machinations2,
+  Title                    = {Micro-Machinations: A DSL for Game Economies},
+  Author                   = {Klint, Paul and van Rozen, Riemer},
+  Booktitle                = {Software Language Engineering},
+  Publisher                = {Springer},
+  Year                     = {2013},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.08.30}
+}
+
 @InCollection{kocsis2006:mcts,
   Title                    = {Bandit based monte-carlo planning},
   Author                   = {Kocsis, Levente and Szepesv{\'a}ri, Csaba},
@@ -2199,6 +2250,20 @@
 
   Owner                    = {Alex},
   Timestamp                = {2013.11.10}
+}
+
+@InBook{kozbelt2010:creativity-theories,
+  Title                    = {The Cambridge Handbook of Creativity},
+  Author                   = {Kozbelt, Aaron and Beghetto, Ronald A and Runco, Mark A},
+  Chapter                  = {Theories of Creativity},
+  Editor                   = {James C. Kaufman and Robert J. Sternberg},
+  Pages                    = {20--47},
+  Publisher                = {Cambridge University Press},
+  Year                     = {2010},
+
+  Journal                  = {The Cambridge Handbook of Creativity},
+  Owner                    = {zook},
+  Timestamp                = {2015.08.30}
 }
 
 @InProceedings{krause2010:ontogalaxy,
@@ -2419,7 +2484,7 @@
 @InProceedings{li2011:gadget,
   Title                    = {Creative gadget design in fictions: generalized planning in analogical spaces},
   Author                   = {Li, Boyang and Riedl, Mark O},
-  Booktitle                = {Proceedings of the Eigth ACM Conference on Creativity and Cognition},
+  Booktitle                = {8th ACM Conference on Creativity and Cognition},
   Year                     = {2011},
   Organization             = {ACM},
   Pages                    = {41--50},
@@ -2442,7 +2507,7 @@
 @InProceedings{li2012:goal-blending,
   Title                    = {Goal-Driven Conceptual Blending: A Computational Approach for Creativity},
   Author                   = {Li, Boyang and Zook, Alexander and Davis, Nicholas and Riedl, Mark O},
-  Booktitle                = {Proceedings of the Third International Conference on Computational Creativity},
+  Booktitle                = {3rd International Conference on Computational Creativity},
   Year                     = {2012},
 
   Owner                    = {alexzook},
@@ -2781,7 +2846,7 @@
 @InProceedings{maher2012:collective-creativity,
   Title                    = {Computational and collective creativity: Who's being creative?},
   Author                   = {Maher, Mary Lou},
-  Booktitle                = {Proceedings of the Third International Conference on Computational Creativity},
+  Booktitle                = {3rd International Conference on Computational Creativity},
   Year                     = {2012},
 
   Owner                    = {Alex},
@@ -2791,7 +2856,7 @@
 @InProceedings{maher2013:surprise,
   Title                    = {Computational Models of Surprise in Evaluating Creative Design},
   Author                   = {Maher, Mary Lou and Brady, Katherine and Fisher, Douglas H.},
-  Booktitle                = {Proceedings of the Fourth International Conference on Computational Creativity},
+  Booktitle                = {4th International Conference on Computational Creativity},
   Year                     = {2013},
 
   Owner                    = {Alex},
@@ -2863,6 +2928,16 @@
 
   Owner                    = {Alex},
   Timestamp                = {2013.03.19}
+}
+
+@InProceedings{martens2015:ceptre,
+  Title                    = {Ceptre: A Language for Modeling Generative Interactive Systems},
+  Author                   = {Chris Martens},
+  Booktitle                = {11th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+  Year                     = {2015},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.08.30}
 }
 
 @InCollection{mateas1999:oz-review-dm,
@@ -2945,6 +3020,16 @@
   Timestamp                = {2013.03.20}
 }
 
+@PhdThesis{medler2012:player-analytics-thesis,
+  Title                    = {Play with Data --- An Exploration of Play Analytics and its Effect on Player Expereinces},
+  Author                   = {Ben Medler},
+  School                   = {Georgia Institute of Technology},
+  Year                     = {2012},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.08.30}
+}
+
 @Article{medler2009:recsys-game,
   Title                    = {Using Recommendation Systems to Adapt Gameplay},
   Author                   = {Medler, Ben},
@@ -3020,7 +3105,7 @@
 @InProceedings{morris2012:chef-creativity-eval,
   Title                    = {Soup over bean of pure joy: Culinary ruminations of an artificial chef},
   Author                   = {Morris, Richard G and Burton, Scott H and Bodily, Paul M and Ventura, Dan},
-  Booktitle                = {Proceedings of the Third International Conference on Computational Creativity},
+  Booktitle                = {3rd International Conference on Computational Creativity},
   Year                     = {2012},
   Pages                    = {119},
 
@@ -3217,6 +3302,16 @@
   Timestamp                = {2015.04.13}
 }
 
+@InProceedings{nielsen2015:vgdl-gen,
+  Title                    = {Towards generating arcade game rules with {VGDL}},
+  Author                   = {Thorbj{\o}rn S. Nielsen and Gabriella A. B. Barros and Julian Togelius and Mark J. Nelson},
+  Booktitle                = {2015 IEEE Conference on Computational Intelligence and Games},
+  Year                     = {2015},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.08.23}
+}
+
 @InProceedings{normoyle2012:al-metrics,
   Title                    = {Game-Based Data Capture for Player Metrics.},
   Author                   = {Normoyle, Aline and Drake, John and Likhachev, Maxim and Safonova, Alla},
@@ -3240,7 +3335,7 @@
 @InProceedings{oneill2009:audience,
   Title                    = {Supporting human creative story authoring with a synthetic audience},
   Author                   = {O'Neill, Brian and Riedl, Mark},
-  Booktitle                = {Seventh ACM Conference on Creativity and cognition},
+  Booktitle                = {7th ACM Conference on Creativity and cognition},
   Year                     = {2009},
   Organization             = {ACM},
   Pages                    = {399--400},
@@ -3322,6 +3417,19 @@
 
   Owner                    = {alexzook},
   Timestamp                = {2015.01.06}
+}
+
+@Article{perezyperez2001:mexica,
+  Title                    = {{MEXICA}: A Computer Model of a Cognitive Account of Creative Writing},
+  Author                   = {P{\'e}rez y P{\'e}rez, R and Sharples, M.},
+  Journal                  = {Journal of Experimental and Theoretical Artificial Intelligence},
+  Year                     = {2001},
+  Number                   = {2},
+  Pages                    = {119--139},
+  Volume                   = {13},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.08.30}
 }
 
 @InProceedings{pantaleev2012:rpg-class,
@@ -3596,7 +3704,7 @@
 @InProceedings{ritchie2012:search,
   Title                    = {A closer look at creativity as search},
   Author                   = {Ritchie, Graeme},
-  Booktitle                = {Proceedings of the Third International Conference on Computational Creativity},
+  Booktitle                = {3rd International Conference on Computational Creativity},
   Year                     = {2012},
 
   Owner                    = {Alex},
@@ -3625,6 +3733,19 @@
 
   Owner                    = {Alex},
   Timestamp                = {2013.11.14}
+}
+
+@Article{rittel1973:wicked-prob,
+  Title                    = {Dilemmas in a general theory of planning},
+  Author                   = {Rittel, Horst WJ and Webber, Melvin M},
+  Journal                  = {Policy Sciences},
+  Year                     = {1973},
+  Number                   = {2},
+  Pages                    = {155--169},
+  Volume                   = {4},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.08.30}
 }
 
 @InProceedings{roberts2007:ttd-mdp-author,
@@ -3694,6 +3815,16 @@
   Timestamp                = {2014.11.26}
 }
 
+@Book{finke1992:creative-cognition,
+  Title                    = {Creative Cognition: Theory, Research, and Applications},
+  Author                   = {Ronald A Finke, Thomas B Ward, Steven M Smith},
+  Publisher                = {MIT Press},
+  Year                     = {1992},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.08.30}
+}
+
 @InBook{rosch1999:categories,
   Title                    = {Concepts: core readings},
   Author                   = {Rosch, Eleanor},
@@ -3707,6 +3838,26 @@
   Journal                  = {Concepts: core readings},
   Owner                    = {Alex},
   Timestamp                = {2013.03.07}
+}
+
+@InProceedings{vanrozen2014:micro-machinations,
+  Title                    = {Adapting Game Mechanics with Micro-Machinations},
+  Author                   = {Riemer van Rozen and Joris Dormans},
+  Booktitle                = {9th International Conference on the Foundations of Digital Games},
+  Year                     = {2014},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.08.30}
+}
+
+@Book{runco2014:creativity-book,
+  Title                    = {Creativity: Theories and Themes: Research, Development, and Practice},
+  Author                   = {Mark A Runco},
+  Publisher                = {Elsevier},
+  Year                     = {2014},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.08.30}
 }
 
 @InProceedings{rusch2008:game-metaphor,
@@ -3776,7 +3927,7 @@
 @InProceedings{saunders2010:curious-whispers,
   Title                    = {Curious whispers: an embodied artificial creative system},
   Author                   = {Saunders, Rob and Gemeinboeck, Petra and Lombard, Adrian and Bourke, Dan and Kocaballi, Baki},
-  Booktitle                = {Proceedings of the First International Conference on Computational Creativity},
+  Booktitle                = {1st International Conference on Computational Creativity},
   Year                     = {2010},
 
   Owner                    = {Alex},
@@ -3801,6 +3952,16 @@
 
   Owner                    = {Alex},
   Timestamp                = {2013.11.10}
+}
+
+@Book{schon1983:reflective-practitioner,
+  Title                    = {The Reflective Practitioner: How Professionals Think in Action},
+  Author                   = {Sch{\"o}n, Donald A},
+  Publisher                = {Basic Books},
+  Year                     = {1983},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.08.30}
 }
 
 @InProceedings{schaul2013:pyvgdl,
@@ -4080,6 +4241,16 @@
 
   Owner                    = {Alex},
   Timestamp                = {2013.03.07}
+}
+
+@Book{sharples1999:writing-creative,
+  Title                    = {How We Write: Writing as Creative Design},
+  Author                   = {Mike Sharples},
+  Publisher                = {Psychology Press},
+  Year                     = {1999},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.08.30}
 }
 
 @Book{shawe-taylor2004:kernel-methods,
@@ -4586,6 +4757,14 @@
   Timestamp                = {2013.11.17}
 }
 
+@Electronic{thompson2007:halo-heatmap,
+  Title                    = {Halo 3: How Microsoft Labs Invented a New Science of Play},
+  Author                   = {Clive Thompson},
+  Month                    = {08},
+  Url                      = {http://archive.wired.com/gaming/virtualworlds/magazine/15-09/ff_halo},
+  Year                     = {2007}
+}
+
 @InProceedings{thompson2014:touch-pathfinding,
   Title                    = {Integrated Pathfinding and Player Analysis for Touch-Driven Games},
   Author                   = {Thompson, Tommy and Vinciguerra, Michele},
@@ -4867,6 +5046,16 @@
   Timestamp                = {2013.03.17}
 }
 
+@InProceedings{vail2015:gender-adaptation,
+  Title                    = {The {M}ars and {V}enus Effect: The Influence of User Gender on the Effectiveness of Adaptive Task Support},
+  Author                   = {Vail, Alexandria K. and Boyer, Kristy Elizabeth and Wiebe, Eric N. and Lester, James C.},
+  Booktitle                = {23rd International Conference on User Modelling, Adaptation, and Personalization},
+  Year                     = {2015},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.07.12}
+}
+
 @Article{vanlehn2006:behav-its,
   Title                    = {The behavior of tutoring systems},
   Author                   = {Van{L}ehn, Kurt},
@@ -4907,7 +5096,7 @@
 @InProceedings{veale2012:google-milking,
   Title                    = {From conceptual "mash-ups" to "bad-ass" blends: A robust computational model of conceptual blending},
   Author                   = {Veale, Tony},
-  Booktitle                = {International Conference on Computational Creativity},
+  Booktitle                = {3rd International Conference on Computational Creativity},
   Year                     = {2012},
 
   Owner                    = {zook},
@@ -4931,7 +5120,7 @@
 @InProceedings{ventura2011:no-free-lunch,
   Title                    = {No free lunch in the search for creativity},
   Author                   = {Ventura, Dan},
-  Booktitle                = {Proceedings of the Second International Conference on Computational Creativity},
+  Booktitle                = {2nd International Conference on Computational Creativity},
   Year                     = {2011},
   Pages                    = {108--110},
 
@@ -4942,7 +5131,7 @@
 @InProceedings{ventura2008:absurdum,
   Title                    = {A Reductio Ad Absurdum experiment in sufficiency for evaluating (computational) creative systems},
   Author                   = {Ventura, Dan},
-  Booktitle                = {Proceedings of the Fifth International Joint Workshop on Computational Creativity},
+  Booktitle                = {5th International Joint Workshop on Computational Creativity},
   Year                     = {2008},
   Pages                    = {11--19},
 
@@ -4982,6 +5171,19 @@
 
   Owner                    = {alexzook},
   Timestamp                = {2015.01.06}
+}
+
+@InBook{ward1999:creative-cognition,
+  Title                    = {Handbook of Creativity},
+  Author                   = {Thomas B Ward and Steven M Smith and Ronald A Finke},
+  Chapter                  = {Creative Cognition},
+  Editor                   = {Robert J. Sternberg},
+  Pages                    = {189--212},
+  Publisher                = {Cambridge Univ Press},
+  Year                     = {1999},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.08.30}
 }
 
 @Book{wardrip-fruin2009:book,
@@ -5043,7 +5245,7 @@
 @InProceedings{wiggins2012:global-workspace,
   Title                    = {Crossing the Threshold Paradox: Creative Cognition in the Global Workspace},
   Author                   = {Wiggins, G. A.},
-  Booktitle                = {Proceedings of the Third International Conference on Computational Creativity},
+  Booktitle                = {3rd International Conference on Computational Creativity},
   Year                     = {2012},
 
   Owner                    = {Alex},
