@@ -1720,6 +1720,16 @@
   Timestamp                = {2013.05.11}
 }
 
+@InProceedings{guzdial2015:video-level-gen,
+  Title                    = {Toward Game Level Generation from Gameplay Videos},
+  Author                   = {Guzdial, Matthew and Riedl, Mark O.},
+  Booktitle                = {6th Workshop on Procedural Content Generation in Games},
+  Year                     = {2015},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.09.05}
+}
+
 @Article{helie2010:creativity,
   Title                    = {Incubation, insight, and creative problem solving: A unified theory and a connectionist model.},
   Author                   = {H{\'e}lie, S{\'e}bastien and Sun, Ron},
