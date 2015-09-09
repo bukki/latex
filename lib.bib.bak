@@ -1720,6 +1720,16 @@
   Timestamp                = {2013.05.11}
 }
 
+@InProceedings{guzdial2015:crowd-in,
+  Title                    = {Crowdsourcing Open Interactive Narrative},
+  Author                   = {Guzdial, Matthew and Harrison, Brent and Li, Boyang and Riedl, Mark O},
+  Booktitle                = {10th International Conference on the Foundations of Digital Games},
+  Year                     = {2015},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.09.07}
+}
+
 @InProceedings{guzdial2015:video-level-gen,
   Title                    = {Toward Game Level Generation from Gameplay Videos},
   Author                   = {Guzdial, Matthew and Riedl, Mark O.},
@@ -1880,9 +1890,19 @@
   Timestamp                = {2013.03.16}
 }
 
+@InProceedings{holmgard2015:mcts-persona,
+  Title                    = {Monte-{C}arlo {T}ree {S}earch for Persona Based Player Modelling},
+  Author                   = {Holmg\r{a}rd, Christoffer and Liapis, Antonios and Togelius, Julian and Yannakakis, Georgios N},
+  Booktitle                = {First Workshop on Player Modeling},
+  Year                     = {2015},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.09.07}
+}
+
 @InProceedings{holmgard2014:player-model-agent,
   Title                    = {Generative Agents for Player Decision Modeling in Games},
-  Author                   = {Holmgård, Christoffer and Liapis, Antonios and Togelius, Julian and Yannakakis, Georgios N.},
+  Author                   = {Holmg\r{a}rd, Christoffer and Liapis, Antonios and Togelius, Julian and Yannakakis, Georgios N.},
   Booktitle                = {9th International Conference on the Foundations of Digital Games},
   Year                     = {2014},
 
@@ -2021,6 +2041,36 @@
   Owner                    = {Alex},
   Publisher                = {Taylor \& Francis},
   Timestamp                = {2013.11.17}
+}
+
+@InProceedings{isaksen2015:flappy-survival,
+  Title                    = {Exploring Game Space Using Survival Analysis},
+  Author                   = {Isaksen, Aaron and Gopstein, Dan and Nealen, Andy},
+  Booktitle                = {10th International Conference on the Foundations of Digital Games},
+  Year                     = {2015},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.09.07}
+}
+
+@InProceedings{isaksen2015:flappy-discovery,
+  Title                    = {Discovering Unique Game Variants},
+  Author                   = {Isaksen, Aaron and Gopstein, Dan and Togelius, Julian and Nealen, Andy},
+  Booktitle                = {ICCC Workshop on Computational Creativity and Games},
+  Year                     = {2015},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.09.07}
+}
+
+@InProceedings{isaksen2015:survival-pm,
+  Title                    = {Comparing Player Skill, Game Variants, and Learning Rates Using Survival Analysis},
+  Author                   = {Isaksen, Aaron and Nealen, Andy},
+  Booktitle                = {First Workshop on Player Modeling},
+  Year                     = {2015},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.09.07}
 }
 
 @Book{isbister2008:game-usability,
@@ -2772,6 +2822,16 @@
 
   Owner                    = {zook},
   Timestamp                = {2014.04.28}
+}
+
+@InProceedings{liu2014:edugame-opt-expr,
+  Title                    = {Towards Automatic Experimentation of Educational Knowledge},
+  Author                   = {Liu, Yun-En and Mandel, Travis and Brunskill, Emma and Popovi\'c, Zoran},
+  Booktitle                = {ACM SIGCHI Conference on Human Factors in Computing Systems},
+  Year                     = {2014},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.09.07}
 }
 
 @InProceedings{liu2014:knowl-vs-learning-bandit,
@@ -3905,6 +3965,16 @@
   Timestamp                = {2013.03.14}
 }
 
+@InProceedings{robertson2015:declarative-gameplay-gen,
+  Title                    = {Automated Gameplay Generation from Declarative World Representations},
+  Author                   = {Robertson, Justus and Young, R. Michael},
+  Booktitle                = {11th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+  Year                     = {2015},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.09.07}
+}
+
 @InProceedings{robertson2014:gameplay-mediation,
   Title                    = {Gameplay as On-Line Mediation Search},
   Author                   = {Robertson, Justus and Young, R. Michael},
@@ -4206,7 +4276,6 @@
   Author                   = {Settles, Burr},
   Publisher                = {Morgan \& Claypool Publishers},
   Year                     = {2012},
-  Volume                   = {6},
 
   Journal                  = {Synthesis Lectures on Artificial Intelligence and Machine Learning},
   Owner                    = {Alex},
@@ -4276,6 +4345,16 @@
   Journal                  = {IEEE Transactions on Computational Intelligence and Games (CIG)},
   Owner                    = {alexzook},
   Timestamp                = {2013.03.18}
+}
+
+@InProceedings{shaker2015:generic-pm,
+  Title                    = {Towards Generic Models of Player Experience},
+  Author                   = {Shaker, Noor and Shaker, Mohammad and Abou-Zleikha, Mohamed},
+  Booktitle                = {11th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+  Year                     = {2015},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.09.07}
 }
 
 @InCollection{shaker2015:pcg-book-evaluation,
@@ -4665,6 +4744,16 @@
   Owner                    = {alexzook},
   Publisher                = {IEEE},
   Timestamp                = {2013.03.17}
+}
+
+@InProceedings{snodgrass2015:mdmc-map,
+  Title                    = {A Hierarchical {MdMC} Approach to 2{D} Video Game Map Generation},
+  Author                   = {Snodgrass, Sam and Onta{\~n}{\'o}n, Santiago},
+  Booktitle                = {11th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+  Year                     = {2015},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.09.07}
 }
 
 @InProceedings{snodgrass2014:level-mc-hierarchical,
