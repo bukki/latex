@@ -1448,6 +1448,16 @@
   Timestamp                = {2013.05.11}
 }
 
+@InProceedings{fristoe2011:kodu-social,
+  Title                    = {Say it with Systems: Expanding {K}odu's Expressive Power through Gender-Inclusive Mechanics},
+  Author                   = {Fristoe, Teale and Denner, Jill and MacLaurin, Matt and Mateas, Michael and Wardrip-Fruin, Noah},
+  Booktitle                = {6th International Conference on Foundations of Digital Games},
+  Year                     = {2011},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.09.16}
+}
+
 @InProceedings{fujita2011:rmt-detect,
   Title                    = {Detecting real money traders in {MMORPG} by using trading network},
   Author                   = {Fujita, Atsushi and Itsuki, Hiroshi and Matsubara, Hitoshi},
@@ -4187,6 +4197,16 @@
   ISBN                     = {9780123694966},
   Owner                    = {Alex},
   Timestamp                = {2013.03.19}
+}
+
+@InProceedings{schenk2013:scriptease-ii,
+  Title                    = {ScriptEase {II}: Platform Independent Story Creation Using High-Level Patterns},
+  Author                   = {Schenk, Kevin and Lari, Adel and Church, Matthew and Graves, Eric and Duncan, Jason and Miller, Robin and Desai, Neesha and Zhao, Richard and Szafron, Duane and Carbonaro, Mike and Schaeffer, Jonathan},
+  Booktitle                = {9th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+  Year                     = {2013},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.09.16}
 }
 
 @InProceedings{schiffel2010:game-symmetry,
