@@ -2906,6 +2906,16 @@
   Timestamp                = {2013.05.11}
 }
 
+@PhdThesis{lomas2014:edugame-thesis,
+  Title                    = {Optimizing Motivation and Learning with Large-Scale Game Design Experiments},
+  Author                   = {J. Derek Lomas},
+  School                   = {Carnegie Mellon University},
+  Year                     = {2014},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.09.16}
+}
+
 @InProceedings{lopes2012:semantic-adaptation,
   Title                    = {Using gameplay semantics to procedurally generate player-matching game worlds},
   Author                   = {Lopes, Ricardo and Tutenel, Tim and Bidarra, Rafael},
