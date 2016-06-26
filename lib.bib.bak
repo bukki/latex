@@ -570,6 +570,16 @@
   Timestamp                = {2014.02.13}
 }
 
+@InProceedings{cenkner2011:generative-hide-seek,
+  Title                    = {A Generative Computational Model for Human Hide and Seek Behavior},
+  Author                   = {Cenkner, Andrew and Bulitko, Vadim and Spetch, Marcia},
+  Booktitle                = {7th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+  Year                     = {2011},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.10.10}
+}
+
 @InProceedings{cerny2015:sidekick-ai,
   Title                    = {Sarah and {S}ally: Creating a Likeable and Competent {AI} Sidekick for a Videogame},
   Author                   = {Cerny, Martin},
@@ -602,6 +612,16 @@
 
   Owner                    = {Alex},
   Timestamp                = {2013.03.07}
+}
+
+@InProceedings{chang2011:social-ultimatum-ai,
+  Title                    = {Learning and Evaluating Human-Like {NPC} Behaviors in Dynamic Games},
+  Author                   = {Chang, Yu-Han and Maheswaran, Rajiv T and Levinboim, Tomer and Rajan, Vasudev},
+  Booktitle                = {7th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+  Year                     = {2011},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.10.10}
 }
 
 @InProceedings{charles2005:gameadapt,
@@ -1288,6 +1308,17 @@
   Timestamp                = {2015.01.06}
 }
 
+@Electronic{ehrenfeld2015:mario-lives,
+  Title                    = {Mario Lives! An Adaptive Learning AI Approach for Generating a Living and Conversing Mario Agent},
+  Author                   = {Ehrenfeld, Stephan and Schrodt, Fabian and Butz, Martin V.},
+  Note                     = {Video},
+  Url                      = {http://aivideocompetition.org/mario-lives-an-adaptive-learning-ai-approach-for-generating-a-living-and-conversing-mario-agent/},
+  Year                     = {2015},
+
+  Owner                    = {zook},
+  Timestamp                = {2016.06.26}
+}
+
 @TechReport{eladhari2011:ai-based-games,
   Title                    = {{AI}-based game design: Enabling new playable experiences},
   Author                   = {Eladhari, Mirjam P. and Sullivan, Anne and Smith, Gillian and McCoy, Josh},
@@ -1819,6 +1850,17 @@
   Timestamp                = {2013.03.07}
 }
 
+@Electronic{hecker2016:spy-party,
+  Title                    = {Spy {P}arty},
+  Author                   = {Hecker, Chris},
+  Note                     = {Website},
+  Url                      = {http://www.spyparty.com/},
+  Year                     = {2016},
+
+  Owner                    = {zook},
+  Timestamp                = {2016.06.26}
+}
+
 @Article{hendrikx2013:pcg,
   Title                    = {Procedural content generation for games: A survey},
   Author                   = {Hendrikx, Mark and Meijer, Sebastiaan and Van Der Velden, Joeri and Iosup, Alexandru},
@@ -1908,6 +1950,26 @@
 
   Owner                    = {zook},
   Timestamp                = {2015.09.07}
+}
+
+@InProceedings{holmgard2014:evolve-persona,
+  Title                    = {Evolving Personas for Player Decision Modeling},
+  Author                   = {Holmg\r{a}rd, Christoffer and Liapis, Antonios and Togelius, Julian and Yannakakis, Georgios N},
+  Booktitle                = {2014 IEEE Conference on Computational Intelligence and Games},
+  Year                     = {2014},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.10.10}
+}
+
+@InProceedings{holmgard2014:persona-vs-clone,
+  Title                    = {Personas versus Clones for Player Decision Modeling},
+  Author                   = {Holmg\r{a}rd, Christoffer and Liapis, Antonios and Togelius, Julian and Yannakakis, Georgios N},
+  Booktitle                = {13th International Conference on Entertainment Computing},
+  Year                     = {2014},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.10.10}
 }
 
 @InProceedings{holmgard2014:player-model-agent,
@@ -2091,6 +2153,18 @@
 
   Owner                    = {alexzook},
   Timestamp                = {2015.02.26}
+}
+
+@InProceedings{isla2005:halo2,
+  Title                    = {Dude: Where’s my warthog? From pathfinding to general spatial competence},
+  Author                   = {Isla, Damian},
+  Booktitle                = {1st AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+  Year                     = {2005},
+  Note                     = {Conference talk},
+
+  Owner                    = {alexzook},
+  Timestamp                = {2013.03.17},
+  Url                      = {http://www.aaai.org/Papers/AIIDE/2005/AIIDE05-040.ppt}
 }
 
 @Book{jaccard1901,
@@ -2469,6 +2543,16 @@
 
   Owner                    = {zook},
   Timestamp                = {2015.03.08}
+}
+
+@InProceedings{laird2000:soar-quakebot,
+  Title                    = {Creating Human-like Synthetic Characters with Multiple Skill Levels: A Case Study Using the {S}oar {Q}uakebot},
+  Author                   = {Laird, John E. and Duchi, John C.},
+  Booktitle                = {AAAI 2000 Fall Symposium on Simulating Human Agents},
+  Year                     = {2000},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.10.10}
 }
 
 @Book{lakoff1990:categories,
@@ -3565,6 +3649,29 @@
   Timestamp                = {2013.11.10}
 }
 
+@InProceedings{orkin2005:fear,
+  Title                    = {Agent architecture considerations for real-time planning in games},
+  Author                   = {Orkin, Jeff},
+  Booktitle                = {1st AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+  Year                     = {2005},
+
+  Owner                    = {alexzook},
+  Timestamp                = {2013.03.17}
+}
+
+@Article{ortega2013:mario-imitation,
+  Title                    = {Imitating Human Playing Styles in Super Mario Bros.},
+  Author                   = {Ortega, Juan and Shaker, Noor and Togelius, Julian and Yannakakis, Georgios N},
+  Journal                  = {Entertainment Computing},
+  Year                     = {2013},
+  Number                   = {2},
+  Pages                    = {93--104},
+  Volume                   = {4},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.10.10}
+}
+
 @Article{orwant2000:eggg,
   Title                    = {EGGG: Automated programming for game generation},
   Author                   = {Orwant, John},
@@ -3758,6 +3865,17 @@
 
   Owner                    = {Alex},
   Timestamp                = {2013.03.07}
+}
+
+@Electronic{pittman2009:pacman,
+  Title                    = {The Pac-{M}an Dossier},
+  Author                   = {Pittman, James},
+  HowPublished             = {website},
+  Url                      = {http://www.gamasutra.com/view/feature/3938/the\_pacman\_dossier.php},
+  Year                     = {2009},
+
+  Owner                    = {Alex},
+  Timestamp                = {2013.11.17}
 }
 
 @InProceedings{pons2012:scenadapt,
@@ -4475,7 +4593,7 @@
 @InProceedings{sharma2007:pm-eval,
   Title                    = {Player modeling evaluation for interactive fiction},
   Author                   = {Sharma, Manu and Mehta, Manish and Onta{\~n}{\'o}n, S and Ram, Ashwin},
-  Booktitle                = {Proceedings of the Artificial Intelligence and Interactive Digital Entertainment Conference Workshop on Optimizing Player Satisfaction},
+  Booktitle                = {Artificial Intelligence and Interactive Digital Entertainment Conference Workshop on Optimizing Player Satisfaction},
   Year                     = {2007},
 
   Owner                    = {Alex},
@@ -4537,6 +4655,16 @@
 
   Owner                    = {Alex},
   Timestamp                = {2013.05.11}
+}
+
+@Article{shneiderman2007:creativity-support,
+  Title                    = {Creativity support tools: Accelerating discovery and innovation},
+  Author                   = {Shneiderman, Ben},
+  Journal                  = {Communications of the ACM},
+  Year                     = {2007},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.09.20}
 }
 
 @Article{sicart2008:defining-mechanics,
@@ -5190,6 +5318,26 @@
   Timestamp                = {2013.03.07}
 }
 
+@InProceedings{tomai2014:bt-adaptation,
+  Title                    = {Adapting In-Game Agent Behavior by Observation of Players Using Learning Behavior Trees},
+  Author                   = {Tomai, Emmett and Flores, Roberto},
+  Booktitle                = {9th International Conference on the Foundations of Digital Games},
+  Year                     = {2014},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.10.10}
+}
+
+@InProceedings{tomai2013:path-splines,
+  Title                    = {Mimicking Humanlike Movement in Open World Games with Path-Relative Recursive Splines},
+  Author                   = {Tomai, Emmett and Salazar, Rosendo and Flores, Roberto},
+  Booktitle                = {9th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+  Year                     = {2013},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.10.10}
+}
+
 @PhdThesis{treanor2013:thesis,
   Title                    = {Investigating Procedural Expression and Interpretation in Videogames},
   Author                   = {Treanor, Mike},
@@ -5353,6 +5501,16 @@
 
   Owner                    = {zook},
   Timestamp                = {2015.07.12}
+}
+
+@InProceedings{vanhoorn2009:racing-multiobjective,
+  Title                    = {Robust Player Imitation Using Multiobjective Evolution},
+  Author                   = {Van Hoorn, Niels and Togelius, Julian and Wierstra, Daan and Schmidhuber, J{\"u}rgen},
+  Booktitle                = {IEEE Congress on Evolutionary Computation},
+  Year                     = {2009},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.10.10}
 }
 
 @Article{vanlehn2006:behav-its,
@@ -5651,6 +5809,16 @@
   Timestamp                = {2014.01.22}
 }
 
+@InProceedings{young2014:rts-imitation,
+  Title                    = {Learning Micro-Management Skills in {RTS} Games by Imitating Experts},
+  Author                   = {Young, Jay and Hawes, Nick},
+  Booktitle                = {10th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+  Year                     = {2014},
+
+  Owner                    = {zook},
+  Timestamp                = {2015.10.10}
+}
+
 @Article{yu2013:storyeti,
   Title                    = {Personalized Interactive Narratives via Sequential Recommendation of Plot Points},
   Author                   = {Yu, Hong and Riedl, Mark O.},
@@ -5921,5 +6089,10 @@
   Booktitle                = {Game Analytics},
   Owner                    = {Alex},
   Timestamp                = {2013.05.11}
+}
+
+@InProceedings{,
+  Owner                    = {zook},
+  Timestamp                = {2015.10.10}
 }
 
