@@ -3229,6 +3229,19 @@
   Timestamp                = {2013.05.11}
 }
 
+@Article{mateas2001:expressive-ai,
+  Title                    = {Expressive {AI}: A hybrid art and science practice},
+  Author                   = {Mateas, Michael},
+  Journal                  = {Leonardo},
+  Year                     = {2001},
+  Number                   = {2},
+  Pages                    = {142--153},
+  Volume                   = {34},
+
+  Owner                    = {alexzook},
+  Timestamp                = {2015.03.11}
+}
+
 @TechReport{mateas2002:facade-architecture,
   Title                    = {Architecture, authorial idioms and early observations of the interactive drama {F}a{\c{c}}ade},
   Author                   = {Mateas, Michael and Stern, Andrew},
