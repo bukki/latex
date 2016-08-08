@@ -6136,8 +6136,15 @@
 @InProceedings{cook2016:danesh,
   author    = {Cook, Michael and Gow, Jeremy and Colton, Simon},
   title     = {Danesh: Helping Bridge The Gap Between Procedural Generators and Their Output},
-  booktitle = {7th Workshop on Procedural Content Generation in Games},
+  booktitle = {7th Workshop on Procedural Content Generation},
   year      = {2016},
+}
+
+@InProceedings{osborn2015:combat-games,
+  author    = {Osborn, Joseph and Lederle-Ensign, Dylan and Wardrip-Fruin, Noah and Mateas, Michael},
+  title     = {Combat in Games},
+  booktitle = {10th International Conference on the Foundations of Digital Games},
+  year      = {2015},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
